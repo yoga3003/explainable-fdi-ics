@@ -1,0 +1,22 @@
+{
+  "features_used": 57,
+  "dropped_constant": 22,
+  "group_sizes": {
+    "P1": 30,
+    "P2": 10,
+    "P3": 5,
+    "P4": 12
+  },
+  "fit_rows": 825842,
+  "cal_rows": 95761,
+  "test_rows": 402005,
+  "attack_rows": 8947,
+  "events": 50,
+  "single_target_events": 36,
+  "single_target_counts": {
+    "P1": 23,
+    "P2": 11,
+    "P3": 2
+  },
+  "majority_class_hit_rate": 0.6388888888888888
+}

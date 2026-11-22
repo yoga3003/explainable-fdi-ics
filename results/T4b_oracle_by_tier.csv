@@ -1,0 +1,43 @@
+detector,method,stealth_tier,mean,std
+IForest,GroupShapley,high stealth,0.9176470588235294,0.05261336417646565
+IForest,GroupShapley,low stealth,0.9058823529411765,0.03221897397089212
+IForest,GroupShapley,medium,0.9625,0.055901699437494734
+IForest,Z-mean,high stealth,0.5882352941176471,0.0
+IForest,Z-mean,low stealth,1.0,0.0
+IForest,Z-mean,medium,1.0,0.0
+MLP-AE,GroupShapley,high stealth,0.8705882352941176,0.14043925160368612
+MLP-AE,GroupShapley,low stealth,1.0,0.0
+MLP-AE,GroupShapley,medium,1.0,0.0
+MLP-AE,Residual,high stealth,0.8,0.06706914265289043
+MLP-AE,Residual,low stealth,0.8117647058823529,0.10522672835293126
+MLP-AE,Residual,medium,0.875,0.08838834764831843
+MLP-AE,Z-mean,high stealth,0.5882352941176471,0.0
+MLP-AE,Z-mean,low stealth,1.0,0.0
+MLP-AE,Z-mean,medium,1.0,0.0
+PCA,GroupShapley,high stealth,0.8235294117647058,
+PCA,GroupShapley,low stealth,1.0,
+PCA,GroupShapley,medium,1.0,
+PCA,Residual,high stealth,0.9411764705882353,
+PCA,Residual,low stealth,0.7058823529411765,
+PCA,Residual,medium,0.8125,
+PCA,Z-mean,high stealth,0.5882352941176471,
+PCA,Z-mean,low stealth,1.0,
+PCA,Z-mean,medium,1.0,
+USAD,GroupShapley,high stealth,0.5764705882352941,0.1052267283529313
+USAD,GroupShapley,low stealth,1.0,0.0
+USAD,GroupShapley,medium,0.9625,0.03423265984407289
+USAD,Residual,high stealth,0.5764705882352941,0.39765750073307227
+USAD,Residual,low stealth,0.9764705882352942,0.032218973970892135
+USAD,Residual,medium,0.75,0.20252314682524564
+USAD,Z-mean,high stealth,0.5882352941176471,0.0
+USAD,Z-mean,low stealth,1.0,0.0
+USAD,Z-mean,medium,1.0,0.0
+Z-max,GroupShapley,high stealth,0.8235294117647058,
+Z-max,GroupShapley,low stealth,1.0,
+Z-max,GroupShapley,medium,1.0,
+Z-max,Residual,high stealth,0.8823529411764706,
+Z-max,Residual,low stealth,0.9411764705882353,
+Z-max,Residual,medium,0.875,
+Z-max,Z-mean,high stealth,0.5882352941176471,
+Z-max,Z-mean,low stealth,1.0,
+Z-max,Z-mean,medium,1.0,

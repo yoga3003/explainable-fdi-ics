@@ -1,0 +1,15 @@
+detector,comparison,events,gs_only_correct,other_only_correct,exact_mcnemar_p
+PCA,GroupShapley vs Residual,29,6,1,0.125
+PCA,GroupShapley vs Z-mean,29,2,1,1.0
+MLP-AE,GroupShapley vs Residual,32,6,1,0.125
+MLP-AE,GroupShapley vs Z-mean,32,2,1,1.0
+IForest,GroupShapley vs Z-mean,17,3,0,0.25
+Z-max,GroupShapley vs Residual,27,2,0,0.5
+Z-max,GroupShapley vs Z-mean,27,1,0,1.0
+USAD,GroupShapley vs Residual,31,6,0,0.03125
+USAD,GroupShapley vs Z-mean,31,3,1,0.625
+PCA,GroupShapley vs KernelSHAP (same seconds),29,0,0,1.0
+MLP-AE,GroupShapley vs KernelSHAP (same seconds),32,0,1,1.0
+IForest,GroupShapley vs KernelSHAP (same seconds),17,0,0,1.0
+Z-max,GroupShapley vs KernelSHAP (same seconds),27,0,0,1.0
+USAD,GroupShapley vs KernelSHAP (same seconds),31,0,0,1.0

@@ -1,0 +1,11 @@
+{
+  "usad_window_s": 10,
+  "usad_latent": 40,
+  "usad_epochs": 20,
+  "usad_train_windows": 60000,
+  "usad_window_pool": 200000,
+  "kernel_shap_coalitions": 1024,
+  "kernel_shap_seconds_per_event": 20,
+  "kernel_shap_validation_max_rel_error": 2.5132848419179614e-08,
+  "runtime_s": 1647.0034959316254
+}

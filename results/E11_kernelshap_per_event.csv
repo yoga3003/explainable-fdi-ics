@@ -1,0 +1,1215 @@
+detector,seed,method,event,targets,single,seconds_explained,top,hit
+PCA,42,KernelSHAP,0,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,1,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),1,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,2,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,3,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,4,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,5,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,6,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,7,P1,True,8,P1,1.0
+PCA,42,GroupShapley (same seconds),7,P1,True,8,P1,1.0
+PCA,42,KernelSHAP,8,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,10,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),10,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,11,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,12,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,13,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,14,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,16,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,17,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,20,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),20,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,21,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,22,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,25,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),25,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,26,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,27,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,28,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,29,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,30,P1+P2,False,20,P2,1.0
+PCA,42,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+PCA,42,KernelSHAP,31,P1+P2,False,20,P2,1.0
+PCA,42,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+PCA,42,KernelSHAP,32,P1+P2,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+PCA,42,KernelSHAP,33,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,34,P1+P3,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+PCA,42,KernelSHAP,35,P1+P3,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+PCA,42,KernelSHAP,36,P1+P2,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+PCA,42,KernelSHAP,37,P2+P3,False,20,P3,1.0
+PCA,42,GroupShapley (same seconds),37,P2+P3,False,20,P3,1.0
+PCA,42,KernelSHAP,38,P1+P2,False,20,P2,1.0
+PCA,42,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+PCA,42,KernelSHAP,39,P1+P2,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),39,P1+P2,False,20,P1,1.0
+PCA,42,KernelSHAP,40,P1+P2,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+PCA,42,KernelSHAP,41,P1+P3,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+PCA,42,KernelSHAP,42,P1+P2,False,20,P1,1.0
+PCA,42,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+PCA,42,KernelSHAP,43,P2+P3,False,20,P2,1.0
+PCA,42,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+PCA,42,KernelSHAP,44,P2,True,20,P2,1.0
+PCA,42,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+PCA,42,KernelSHAP,45,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,47,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+PCA,42,KernelSHAP,48,P2+P3,False,20,P2,1.0
+PCA,42,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+PCA,42,KernelSHAP,49,P1,True,20,P1,1.0
+PCA,42,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,0,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,2,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,3,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,4,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,5,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,6,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,8,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,11,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,12,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,13,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,14,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,15,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),15,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,16,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,17,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,19,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,21,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,22,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,25,P1,True,19,P4,0.0
+MLP-AE,42,GroupShapley (same seconds),25,P1,True,19,P4,0.0
+MLP-AE,42,KernelSHAP,26,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,27,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,28,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,29,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,30,P1+P2,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,31,P1+P2,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,32,P1+P2,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,33,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,34,P1+P3,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,35,P1+P3,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,36,P1+P2,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,37,P2+P3,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,38,P1+P2,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,39,P1+P2,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,40,P1+P2,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,41,P1+P3,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,42,P1+P2,False,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+MLP-AE,42,KernelSHAP,43,P2+P3,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,44,P2,True,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+MLP-AE,42,KernelSHAP,45,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,47,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+MLP-AE,42,KernelSHAP,48,P2+P3,False,20,P2,1.0
+MLP-AE,42,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+MLP-AE,42,KernelSHAP,49,P1,True,20,P1,1.0
+MLP-AE,42,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,0,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,1,P1,True,18,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),1,P1,True,18,P1,1.0
+MLP-AE,123,KernelSHAP,2,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,3,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,4,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,5,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,6,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,7,P1,True,1,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),7,P1,True,1,P1,1.0
+MLP-AE,123,KernelSHAP,8,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,10,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),10,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,11,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,12,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,13,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,14,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,15,P2,True,18,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),15,P2,True,18,P2,1.0
+MLP-AE,123,KernelSHAP,16,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,17,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,19,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,20,P1,True,11,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),20,P1,True,11,P1,1.0
+MLP-AE,123,KernelSHAP,21,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,22,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,25,P1,True,20,P4,0.0
+MLP-AE,123,GroupShapley (same seconds),25,P1,True,20,P4,0.0
+MLP-AE,123,KernelSHAP,26,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,27,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,28,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,29,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,30,P1+P2,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,31,P1+P2,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,32,P1+P2,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,33,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,34,P1+P3,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,35,P1+P3,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,36,P1+P2,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,37,P2+P3,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,38,P1+P2,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,39,P1+P2,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,40,P1+P2,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,41,P1+P3,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,42,P1+P2,False,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+MLP-AE,123,KernelSHAP,43,P2+P3,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,44,P2,True,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+MLP-AE,123,KernelSHAP,45,P1,True,20,P4,0.0
+MLP-AE,123,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,46,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),46,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,47,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+MLP-AE,123,KernelSHAP,48,P2+P3,False,20,P2,1.0
+MLP-AE,123,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+MLP-AE,123,KernelSHAP,49,P1,True,20,P1,1.0
+MLP-AE,123,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,0,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,2,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,3,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,4,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,5,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,6,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,8,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,10,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),10,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,11,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,12,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,13,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,14,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,15,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),15,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,16,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,17,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,19,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,20,P1,True,10,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),20,P1,True,10,P1,1.0
+MLP-AE,2026,KernelSHAP,21,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,22,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,25,P1,True,20,P4,0.0
+MLP-AE,2026,GroupShapley (same seconds),25,P1,True,20,P4,0.0
+MLP-AE,2026,KernelSHAP,26,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,27,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,28,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,29,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,30,P1+P2,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,31,P1+P2,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,32,P1+P2,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,33,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,34,P1+P3,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,35,P1+P3,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,36,P1+P2,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,37,P2+P3,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,38,P1+P2,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,39,P1+P2,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,40,P1+P2,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,41,P1+P3,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,42,P1+P2,False,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+MLP-AE,2026,KernelSHAP,43,P2+P3,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,44,P2,True,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+MLP-AE,2026,KernelSHAP,45,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,47,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+MLP-AE,2026,KernelSHAP,48,P2+P3,False,20,P2,1.0
+MLP-AE,2026,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+MLP-AE,2026,KernelSHAP,49,P1,True,20,P1,1.0
+MLP-AE,2026,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,0,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,2,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,3,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,4,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,5,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,6,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,8,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,10,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),10,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,11,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,12,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,13,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,14,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,15,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),15,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,16,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,17,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,19,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,20,P1,True,16,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),20,P1,True,16,P1,1.0
+MLP-AE,7,KernelSHAP,21,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,22,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,25,P1,True,20,P4,0.0
+MLP-AE,7,GroupShapley (same seconds),25,P1,True,20,P4,0.0
+MLP-AE,7,KernelSHAP,26,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,27,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,28,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,29,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,30,P1+P2,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,31,P1+P2,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,32,P1+P2,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,33,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,34,P1+P3,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,35,P1+P3,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,36,P1+P2,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,37,P2+P3,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,38,P1+P2,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,39,P1+P2,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,40,P1+P2,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,41,P1+P3,False,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+MLP-AE,7,KernelSHAP,42,P1+P2,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),42,P1+P2,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,43,P2+P3,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,44,P2,True,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+MLP-AE,7,KernelSHAP,45,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,46,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),46,P1,True,20,P4,0.0
+MLP-AE,7,KernelSHAP,47,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+MLP-AE,7,KernelSHAP,48,P2+P3,False,20,P2,1.0
+MLP-AE,7,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+MLP-AE,7,KernelSHAP,49,P1,True,20,P1,1.0
+MLP-AE,7,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,0,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,2,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,3,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,4,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,5,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,6,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,8,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,10,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),10,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,11,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,12,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,13,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,14,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),14,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,15,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),15,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,16,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,17,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,19,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,20,P1,True,8,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),20,P1,True,8,P1,1.0
+MLP-AE,99,KernelSHAP,21,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,22,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,25,P1,True,20,P4,0.0
+MLP-AE,99,GroupShapley (same seconds),25,P1,True,20,P4,0.0
+MLP-AE,99,KernelSHAP,26,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,27,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,28,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,29,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,30,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,31,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,32,P1+P2,False,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+MLP-AE,99,KernelSHAP,33,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,34,P1+P3,False,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+MLP-AE,99,KernelSHAP,35,P1+P3,False,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+MLP-AE,99,KernelSHAP,36,P1+P2,False,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+MLP-AE,99,KernelSHAP,37,P2+P3,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,38,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,39,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,40,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),40,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,41,P1+P3,False,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+MLP-AE,99,KernelSHAP,42,P1+P2,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),42,P1+P2,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,43,P2+P3,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,44,P2,True,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+MLP-AE,99,KernelSHAP,45,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,46,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),46,P1,True,20,P4,0.0
+MLP-AE,99,KernelSHAP,47,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+MLP-AE,99,KernelSHAP,48,P2+P3,False,20,P2,1.0
+MLP-AE,99,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+MLP-AE,99,KernelSHAP,49,P1,True,20,P1,1.0
+MLP-AE,99,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,2,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,13,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,22,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,26,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,27,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,28,P2,True,20,P2,1.0
+IForest,42,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+IForest,42,KernelSHAP,31,P1+P2,False,20,P2,1.0
+IForest,42,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+IForest,42,KernelSHAP,32,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,33,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,34,P1+P3,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+IForest,42,KernelSHAP,35,P1+P3,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+IForest,42,KernelSHAP,36,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,38,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),38,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,39,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),39,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,40,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,42,P1+P2,False,20,P1,1.0
+IForest,42,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+IForest,42,KernelSHAP,44,P2,True,17,P2,1.0
+IForest,42,GroupShapley (same seconds),44,P2,True,17,P2,1.0
+IForest,42,KernelSHAP,47,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+IForest,42,KernelSHAP,48,P2+P3,False,20,P2,1.0
+IForest,42,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+IForest,42,KernelSHAP,49,P1,True,20,P1,1.0
+IForest,42,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,0,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,2,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,6,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,8,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,12,P1,True,18,P1,1.0
+IForest,123,GroupShapley (same seconds),12,P1,True,18,P1,1.0
+IForest,123,KernelSHAP,13,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,17,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,22,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,26,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,27,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,28,P2,True,20,P2,1.0
+IForest,123,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+IForest,123,KernelSHAP,29,P2,True,14,P2,1.0
+IForest,123,GroupShapley (same seconds),29,P2,True,14,P2,1.0
+IForest,123,KernelSHAP,30,P1+P2,False,20,P2,1.0
+IForest,123,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+IForest,123,KernelSHAP,31,P1+P2,False,20,P2,1.0
+IForest,123,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+IForest,123,KernelSHAP,32,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,33,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,34,P1+P3,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+IForest,123,KernelSHAP,35,P1+P3,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+IForest,123,KernelSHAP,36,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,38,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),38,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,39,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),39,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,40,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,41,P1+P3,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+IForest,123,KernelSHAP,42,P1+P2,False,20,P1,1.0
+IForest,123,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+IForest,123,KernelSHAP,44,P2,True,20,P2,1.0
+IForest,123,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+IForest,123,KernelSHAP,45,P1,True,3,P1,1.0
+IForest,123,GroupShapley (same seconds),45,P1,True,3,P1,1.0
+IForest,123,KernelSHAP,47,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+IForest,123,KernelSHAP,48,P2+P3,False,20,P2,1.0
+IForest,123,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+IForest,123,KernelSHAP,49,P1,True,20,P1,1.0
+IForest,123,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,0,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,2,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,6,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,8,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,12,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,13,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,17,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,22,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,26,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,27,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,28,P2,True,20,P2,1.0
+IForest,2026,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+IForest,2026,KernelSHAP,30,P1+P2,False,20,P2,1.0
+IForest,2026,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+IForest,2026,KernelSHAP,31,P1+P2,False,20,P2,1.0
+IForest,2026,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+IForest,2026,KernelSHAP,32,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,33,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,34,P1+P3,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+IForest,2026,KernelSHAP,35,P1+P3,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+IForest,2026,KernelSHAP,36,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,38,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),38,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,39,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),39,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,40,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,41,P1+P3,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+IForest,2026,KernelSHAP,42,P1+P2,False,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+IForest,2026,KernelSHAP,44,P2,True,20,P2,1.0
+IForest,2026,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+IForest,2026,KernelSHAP,47,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+IForest,2026,KernelSHAP,48,P2+P3,False,20,P2,1.0
+IForest,2026,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+IForest,2026,KernelSHAP,49,P1,True,20,P1,1.0
+IForest,2026,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,0,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,2,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,6,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,13,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,17,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,22,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,26,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,27,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,28,P2,True,20,P2,1.0
+IForest,7,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+IForest,7,KernelSHAP,29,P2,True,9,P2,1.0
+IForest,7,GroupShapley (same seconds),29,P2,True,9,P2,1.0
+IForest,7,KernelSHAP,30,P1+P2,False,19,P2,1.0
+IForest,7,GroupShapley (same seconds),30,P1+P2,False,19,P2,1.0
+IForest,7,KernelSHAP,31,P1+P2,False,20,P2,1.0
+IForest,7,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+IForest,7,KernelSHAP,32,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+IForest,7,KernelSHAP,33,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,34,P1+P3,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+IForest,7,KernelSHAP,35,P1+P3,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+IForest,7,KernelSHAP,36,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+IForest,7,KernelSHAP,38,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+IForest,7,KernelSHAP,39,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),39,P1+P2,False,20,P1,1.0
+IForest,7,KernelSHAP,40,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+IForest,7,KernelSHAP,42,P1+P2,False,20,P1,1.0
+IForest,7,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+IForest,7,KernelSHAP,44,P2,True,20,P2,1.0
+IForest,7,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+IForest,7,KernelSHAP,47,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+IForest,7,KernelSHAP,48,P2+P3,False,20,P2,1.0
+IForest,7,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+IForest,7,KernelSHAP,49,P1,True,20,P1,1.0
+IForest,7,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,2,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,6,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,8,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,12,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,13,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,17,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,22,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,26,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,27,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,28,P2,True,20,P2,1.0
+IForest,99,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+IForest,99,KernelSHAP,30,P1+P2,False,11,P2,1.0
+IForest,99,GroupShapley (same seconds),30,P1+P2,False,11,P2,1.0
+IForest,99,KernelSHAP,31,P1+P2,False,20,P2,1.0
+IForest,99,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+IForest,99,KernelSHAP,32,P1+P2,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+IForest,99,KernelSHAP,33,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,34,P1+P3,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+IForest,99,KernelSHAP,35,P1+P3,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+IForest,99,KernelSHAP,36,P1+P2,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+IForest,99,KernelSHAP,38,P1+P2,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),38,P1+P2,False,20,P1,1.0
+IForest,99,KernelSHAP,40,P1+P2,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+IForest,99,KernelSHAP,42,P1+P2,False,20,P1,1.0
+IForest,99,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+IForest,99,KernelSHAP,44,P2,True,10,P2,1.0
+IForest,99,GroupShapley (same seconds),44,P2,True,10,P2,1.0
+IForest,99,KernelSHAP,47,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+IForest,99,KernelSHAP,48,P2+P3,False,20,P2,1.0
+IForest,99,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+IForest,99,KernelSHAP,49,P1,True,20,P1,1.0
+IForest,99,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,0,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,1,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),1,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,2,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,3,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,4,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,5,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,6,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,8,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,11,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,12,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,13,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),13,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,15,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),15,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,16,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,17,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,19,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,21,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,22,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,25,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),25,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,26,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,27,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,28,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,29,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,30,P1+P2,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+Z-max,42,KernelSHAP,31,P1+P2,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+Z-max,42,KernelSHAP,32,P1+P2,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+Z-max,42,KernelSHAP,33,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,34,P1+P3,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+Z-max,42,KernelSHAP,35,P1+P3,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+Z-max,42,KernelSHAP,36,P1+P2,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+Z-max,42,KernelSHAP,37,P2+P3,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+Z-max,42,KernelSHAP,38,P1+P2,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+Z-max,42,KernelSHAP,39,P1+P2,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+Z-max,42,KernelSHAP,40,P1+P2,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+Z-max,42,KernelSHAP,41,P1+P3,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+Z-max,42,KernelSHAP,42,P1+P2,False,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+Z-max,42,KernelSHAP,43,P2+P3,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+Z-max,42,KernelSHAP,44,P2,True,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+Z-max,42,KernelSHAP,45,P1,True,18,P1,1.0
+Z-max,42,GroupShapley (same seconds),45,P1,True,18,P1,1.0
+Z-max,42,KernelSHAP,47,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+Z-max,42,KernelSHAP,48,P2+P3,False,20,P2,1.0
+Z-max,42,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+Z-max,42,KernelSHAP,49,P1,True,20,P1,1.0
+Z-max,42,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,0,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,2,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,3,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,4,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,5,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,6,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,11,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,12,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,16,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,17,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,19,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,21,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,22,P1,True,16,P1,1.0
+USAD,42,GroupShapley (same seconds),22,P1,True,16,P1,1.0
+USAD,42,KernelSHAP,26,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,27,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,28,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,29,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,30,P1+P2,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+USAD,42,KernelSHAP,31,P1+P2,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+USAD,42,KernelSHAP,32,P1+P2,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+USAD,42,KernelSHAP,34,P1+P3,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+USAD,42,KernelSHAP,35,P1+P3,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+USAD,42,KernelSHAP,36,P1+P2,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+USAD,42,KernelSHAP,38,P1+P2,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+USAD,42,KernelSHAP,39,P1+P2,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+USAD,42,KernelSHAP,40,P1+P2,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+USAD,42,KernelSHAP,42,P1+P2,False,20,P1,1.0
+USAD,42,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+USAD,42,KernelSHAP,43,P2+P3,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+USAD,42,KernelSHAP,44,P2,True,20,P2,1.0
+USAD,42,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+USAD,42,KernelSHAP,45,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),45,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,47,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+USAD,42,KernelSHAP,48,P2+P3,False,20,P2,1.0
+USAD,42,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+USAD,42,KernelSHAP,49,P1,True,20,P1,1.0
+USAD,42,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,0,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,2,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,3,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,4,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,5,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,6,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,11,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,12,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,16,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,17,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,19,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,21,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,22,P1,True,17,P1,1.0
+USAD,123,GroupShapley (same seconds),22,P1,True,17,P1,1.0
+USAD,123,KernelSHAP,26,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,27,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,28,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,29,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,30,P1+P2,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+USAD,123,KernelSHAP,31,P1+P2,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+USAD,123,KernelSHAP,32,P1+P2,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+USAD,123,KernelSHAP,33,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,34,P1+P3,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+USAD,123,KernelSHAP,35,P1+P3,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+USAD,123,KernelSHAP,36,P1+P2,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+USAD,123,KernelSHAP,37,P2+P3,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+USAD,123,KernelSHAP,38,P1+P2,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+USAD,123,KernelSHAP,39,P1+P2,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+USAD,123,KernelSHAP,40,P1+P2,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+USAD,123,KernelSHAP,41,P1+P3,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+USAD,123,KernelSHAP,42,P1+P2,False,20,P1,1.0
+USAD,123,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+USAD,123,KernelSHAP,43,P2+P3,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+USAD,123,KernelSHAP,44,P2,True,20,P2,1.0
+USAD,123,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+USAD,123,KernelSHAP,47,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+USAD,123,KernelSHAP,48,P2+P3,False,20,P2,1.0
+USAD,123,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+USAD,123,KernelSHAP,49,P1,True,20,P1,1.0
+USAD,123,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,0,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,2,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,3,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,4,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,5,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,6,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,11,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,12,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,16,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,17,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,19,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,21,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,26,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,28,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,29,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,30,P1+P2,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+USAD,2026,KernelSHAP,31,P1+P2,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+USAD,2026,KernelSHAP,32,P1+P2,False,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+USAD,2026,KernelSHAP,33,P1,True,14,P1,1.0
+USAD,2026,GroupShapley (same seconds),33,P1,True,14,P1,1.0
+USAD,2026,KernelSHAP,34,P1+P3,False,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+USAD,2026,KernelSHAP,35,P1+P3,False,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+USAD,2026,KernelSHAP,36,P1+P2,False,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+USAD,2026,KernelSHAP,38,P1+P2,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+USAD,2026,KernelSHAP,39,P1+P2,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+USAD,2026,KernelSHAP,40,P1+P2,False,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),40,P1+P2,False,20,P1,1.0
+USAD,2026,KernelSHAP,42,P1+P2,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),42,P1+P2,False,20,P2,1.0
+USAD,2026,KernelSHAP,43,P2+P3,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+USAD,2026,KernelSHAP,44,P2,True,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+USAD,2026,KernelSHAP,46,P1,True,19,P1,1.0
+USAD,2026,GroupShapley (same seconds),46,P1,True,19,P1,1.0
+USAD,2026,KernelSHAP,47,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+USAD,2026,KernelSHAP,48,P2+P3,False,20,P2,1.0
+USAD,2026,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+USAD,2026,KernelSHAP,49,P1,True,20,P1,1.0
+USAD,2026,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,0,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,1,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),1,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,2,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,3,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,4,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,5,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,6,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,8,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),8,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,11,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,12,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,13,P1,True,13,P3,0.0
+USAD,7,GroupShapley (same seconds),13,P1,True,13,P3,0.0
+USAD,7,KernelSHAP,14,P1,True,20,P4,0.0
+USAD,7,GroupShapley (same seconds),14,P1,True,20,P4,0.0
+USAD,7,KernelSHAP,15,P2,True,18,P2,1.0
+USAD,7,GroupShapley (same seconds),15,P2,True,18,P2,1.0
+USAD,7,KernelSHAP,16,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,17,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,19,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,21,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,22,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,23,P3,True,20,P3,1.0
+USAD,7,GroupShapley (same seconds),23,P3,True,20,P3,1.0
+USAD,7,KernelSHAP,24,P3,True,20,P3,1.0
+USAD,7,GroupShapley (same seconds),24,P3,True,20,P3,1.0
+USAD,7,KernelSHAP,26,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,27,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,28,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,29,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,30,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,31,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,32,P1+P2,False,20,P1,1.0
+USAD,7,GroupShapley (same seconds),32,P1+P2,False,20,P1,1.0
+USAD,7,KernelSHAP,33,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,34,P1+P3,False,20,P1,1.0
+USAD,7,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+USAD,7,KernelSHAP,35,P1+P3,False,20,P1,1.0
+USAD,7,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+USAD,7,KernelSHAP,36,P1+P2,False,20,P1,1.0
+USAD,7,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+USAD,7,KernelSHAP,37,P2+P3,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+USAD,7,KernelSHAP,38,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,39,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,40,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),40,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,41,P1+P3,False,20,P1,1.0
+USAD,7,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+USAD,7,KernelSHAP,42,P1+P2,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),42,P1+P2,False,20,P2,1.0
+USAD,7,KernelSHAP,43,P2+P3,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+USAD,7,KernelSHAP,44,P2,True,20,P2,1.0
+USAD,7,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+USAD,7,KernelSHAP,47,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+USAD,7,KernelSHAP,48,P2+P3,False,20,P2,1.0
+USAD,7,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+USAD,7,KernelSHAP,49,P1,True,20,P1,1.0
+USAD,7,GroupShapley (same seconds),49,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,0,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),0,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,1,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),1,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,2,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),2,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,3,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),3,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,4,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),4,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,5,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),5,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,6,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),6,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,11,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),11,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,12,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),12,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,16,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),16,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,17,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),17,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,19,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),19,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,21,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),21,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,22,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),22,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,23,P3,True,20,P1,0.0
+USAD,99,GroupShapley (same seconds),23,P3,True,20,P1,0.0
+USAD,99,KernelSHAP,25,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),25,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,26,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),26,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,27,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),27,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,28,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),28,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,29,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),29,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,30,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),30,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,31,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),31,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,32,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),32,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,33,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),33,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,34,P1+P3,False,20,P1,1.0
+USAD,99,GroupShapley (same seconds),34,P1+P3,False,20,P1,1.0
+USAD,99,KernelSHAP,35,P1+P3,False,20,P1,1.0
+USAD,99,GroupShapley (same seconds),35,P1+P3,False,20,P1,1.0
+USAD,99,KernelSHAP,36,P1+P2,False,20,P1,1.0
+USAD,99,GroupShapley (same seconds),36,P1+P2,False,20,P1,1.0
+USAD,99,KernelSHAP,37,P2+P3,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),37,P2+P3,False,20,P2,1.0
+USAD,99,KernelSHAP,38,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),38,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,39,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),39,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,40,P1+P2,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),40,P1+P2,False,20,P2,1.0
+USAD,99,KernelSHAP,41,P1+P3,False,20,P1,1.0
+USAD,99,GroupShapley (same seconds),41,P1+P3,False,20,P1,1.0
+USAD,99,KernelSHAP,42,P1+P2,False,20,P1,1.0
+USAD,99,GroupShapley (same seconds),42,P1+P2,False,20,P1,1.0
+USAD,99,KernelSHAP,43,P2+P3,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),43,P2+P3,False,20,P2,1.0
+USAD,99,KernelSHAP,44,P2,True,20,P2,1.0
+USAD,99,GroupShapley (same seconds),44,P2,True,20,P2,1.0
+USAD,99,KernelSHAP,47,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),47,P1,True,20,P1,1.0
+USAD,99,KernelSHAP,48,P2+P3,False,20,P2,1.0
+USAD,99,GroupShapley (same seconds),48,P2+P3,False,20,P2,1.0
+USAD,99,KernelSHAP,49,P1,True,20,P1,1.0
+USAD,99,GroupShapley (same seconds),49,P1,True,20,P1,1.0

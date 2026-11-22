@@ -1,0 +1,2301 @@
+detector,seed,method,event,targets,single,top,hit,top_oracle,hit_oracle,magnitude_z,stealth_tier
+PCA,42,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+PCA,42,Z-mean,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+PCA,42,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+PCA,42,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+PCA,42,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+PCA,42,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+PCA,42,Z-mean,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+PCA,42,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+PCA,42,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+PCA,42,Z-mean,10,P1,True,P3,0.0,P3,0.0,5.002335548400879,high stealth
+PCA,42,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+PCA,42,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+PCA,42,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+PCA,42,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+PCA,42,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+PCA,42,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+PCA,42,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+PCA,42,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+PCA,42,Z-mean,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+PCA,42,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+PCA,42,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+PCA,42,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+PCA,42,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+PCA,42,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+PCA,42,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+PCA,42,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+PCA,42,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+PCA,42,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+PCA,42,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+PCA,42,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+PCA,42,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+PCA,42,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+PCA,42,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+PCA,42,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+PCA,42,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+PCA,42,Z-mean,42,P1+P2,False,P1,1.0,P2,1.0,23.595354080200195,medium
+PCA,42,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+PCA,42,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+PCA,42,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+PCA,42,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+PCA,42,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+PCA,42,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+PCA,42,GroupShapley,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+PCA,42,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+PCA,42,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+PCA,42,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+PCA,42,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+PCA,42,GroupShapley,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+PCA,42,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+PCA,42,GroupShapley,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+PCA,42,GroupShapley,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+PCA,42,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+PCA,42,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+PCA,42,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+PCA,42,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+PCA,42,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+PCA,42,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+PCA,42,GroupShapley,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+PCA,42,GroupShapley,19,P2,True,,,P2,1.0,22.047372817993164,medium
+PCA,42,GroupShapley,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+PCA,42,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+PCA,42,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+PCA,42,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+PCA,42,GroupShapley,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+PCA,42,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+PCA,42,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+PCA,42,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+PCA,42,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+PCA,42,GroupShapley,33,P1,True,P4,0.0,P1,1.0,18.91683959960937,medium
+PCA,42,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+PCA,42,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+PCA,42,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+PCA,42,GroupShapley,37,P2+P3,False,P3,1.0,P3,1.0,26.86479949951172,low stealth
+PCA,42,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+PCA,42,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+PCA,42,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+PCA,42,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+PCA,42,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+PCA,42,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+PCA,42,GroupShapley,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+PCA,42,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+PCA,42,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+PCA,42,Residual,0,P1,True,P2,0.0,P1,1.0,16.967288970947266,medium
+PCA,42,Residual,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+PCA,42,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+PCA,42,Residual,3,P2,True,P3,0.0,P3,0.0,22.145233154296875,medium
+PCA,42,Residual,4,P2,True,P3,0.0,P3,0.0,46.704376220703125,low stealth
+PCA,42,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,6,P1,True,P2,0.0,P2,0.0,131.1212158203125,low stealth
+PCA,42,Residual,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+PCA,42,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+PCA,42,Residual,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+PCA,42,Residual,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+PCA,42,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+PCA,42,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+PCA,42,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+PCA,42,Residual,15,P2,True,,,P3,0.0,25.08995819091797,medium
+PCA,42,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+PCA,42,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+PCA,42,Residual,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+PCA,42,Residual,19,P2,True,,,P2,1.0,22.047372817993164,medium
+PCA,42,Residual,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+PCA,42,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+PCA,42,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+PCA,42,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+PCA,42,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+PCA,42,Residual,26,P1,True,P2,0.0,P2,0.0,133.47882080078125,low stealth
+PCA,42,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+PCA,42,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,30,P1+P2,False,P3,0.0,P3,0.0,46.72216796875,low stealth
+PCA,42,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+PCA,42,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+PCA,42,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+PCA,42,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+PCA,42,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+PCA,42,Residual,37,P2+P3,False,P3,1.0,P3,1.0,26.86479949951172,low stealth
+PCA,42,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,39,P1+P2,False,P1,1.0,P3,0.0,23.47080421447754,medium
+PCA,42,Residual,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+PCA,42,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+PCA,42,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+PCA,42,Residual,43,P2+P3,False,P3,1.0,P3,1.0,24.22700309753418,medium
+PCA,42,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+PCA,42,Residual,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+PCA,42,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+PCA,42,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+PCA,42,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+MLP-AE,42,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,42,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,42,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,42,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,42,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,42,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,42,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,42,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,42,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+MLP-AE,42,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+MLP-AE,42,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,42,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,42,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+MLP-AE,42,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,42,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,42,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,42,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+MLP-AE,42,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,42,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,42,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,42,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,42,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+MLP-AE,42,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,42,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,42,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,42,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,42,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,42,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,42,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,42,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,42,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,42,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,42,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,42,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,42,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,42,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,42,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,42,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,42,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+MLP-AE,42,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,42,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,42,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,42,GroupShapley,1,P1,True,,,P4,0.0,14.54720687866211,high stealth
+MLP-AE,42,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,42,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,42,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,42,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,42,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,42,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,42,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+MLP-AE,42,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+MLP-AE,42,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,42,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,42,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,42,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,42,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,42,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,42,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+MLP-AE,42,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,42,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,42,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,42,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,42,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,42,GroupShapley,25,P1,True,P4,0.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,42,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,42,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,42,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,42,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,42,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,42,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,42,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,42,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,42,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,42,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,42,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,42,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,42,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,42,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,42,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,42,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+MLP-AE,42,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,42,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,42,Residual,0,P1,True,P2,0.0,P2,0.0,16.967288970947266,medium
+MLP-AE,42,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,42,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,42,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,42,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,42,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,6,P1,True,P2,0.0,P2,0.0,131.1212158203125,low stealth
+MLP-AE,42,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,42,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,42,Residual,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+MLP-AE,42,Residual,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+MLP-AE,42,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,42,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,42,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,42,Residual,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,42,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,42,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,42,Residual,18,P1,True,,,P2,0.0,2.625920057296753,high stealth
+MLP-AE,42,Residual,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,42,Residual,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,42,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,42,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,42,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,42,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,42,Residual,26,P1,True,P2,0.0,P2,0.0,133.47882080078125,low stealth
+MLP-AE,42,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,42,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,42,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,32,P1+P2,False,P2,1.0,P2,1.0,24.196866989135746,medium
+MLP-AE,42,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,42,Residual,34,P1+P3,False,P2,0.0,P2,0.0,14.894790649414062,high stealth
+MLP-AE,42,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,42,Residual,36,P1+P2,False,P2,1.0,P2,1.0,23.87114524841309,medium
+MLP-AE,42,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,42,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,42,Residual,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,42,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,42,Residual,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,42,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,42,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,42,Residual,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+MLP-AE,42,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,42,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,42,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+MLP-AE,123,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,123,Z-mean,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+MLP-AE,123,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,123,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,123,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,123,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,123,Z-mean,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+MLP-AE,123,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,123,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+MLP-AE,123,Z-mean,10,P1,True,P1,1.0,P3,0.0,5.002335548400879,high stealth
+MLP-AE,123,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,123,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,123,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+MLP-AE,123,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,123,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,123,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,123,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+MLP-AE,123,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,123,Z-mean,20,P1,True,P3,0.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,123,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,123,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,123,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+MLP-AE,123,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,123,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,123,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,123,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,123,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,123,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,123,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,123,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,123,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,123,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,123,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,123,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,123,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,123,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,123,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,123,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,123,Z-mean,46,P1,True,P1,1.0,P4,0.0,5.331490516662598,high stealth
+MLP-AE,123,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,123,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,123,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,123,GroupShapley,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+MLP-AE,123,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,123,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,123,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,123,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,123,GroupShapley,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+MLP-AE,123,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,123,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+MLP-AE,123,GroupShapley,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,123,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,123,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,123,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,123,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,123,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,123,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,123,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+MLP-AE,123,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,123,GroupShapley,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,123,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,123,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,123,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,123,GroupShapley,25,P1,True,P4,0.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,123,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,123,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,123,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,123,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,123,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,123,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,123,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,123,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,123,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,123,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,123,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,123,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,123,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,123,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,123,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,123,GroupShapley,46,P1,True,P1,1.0,P1,1.0,5.331490516662598,high stealth
+MLP-AE,123,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,123,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,123,Residual,0,P1,True,P2,0.0,P2,0.0,16.967288970947266,medium
+MLP-AE,123,Residual,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+MLP-AE,123,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,123,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,123,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,123,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,6,P1,True,P2,0.0,P2,0.0,131.1212158203125,low stealth
+MLP-AE,123,Residual,7,P1,True,P1,1.0,P1,1.0,8.460548400878906,high stealth
+MLP-AE,123,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,123,Residual,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+MLP-AE,123,Residual,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,123,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,123,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,123,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,123,Residual,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,123,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,123,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,123,Residual,18,P1,True,,,P2,0.0,2.625920057296753,high stealth
+MLP-AE,123,Residual,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,123,Residual,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,123,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,123,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,123,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,123,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,123,Residual,26,P1,True,P2,0.0,P2,0.0,133.47882080078125,low stealth
+MLP-AE,123,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,123,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,123,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,123,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,123,Residual,34,P1+P3,False,P2,0.0,P2,0.0,14.894790649414062,high stealth
+MLP-AE,123,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,123,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,123,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,123,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,123,Residual,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,123,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,123,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,123,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,123,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,123,Residual,46,P1,True,P1,1.0,P1,1.0,5.331490516662598,high stealth
+MLP-AE,123,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,123,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,123,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+MLP-AE,2026,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,2026,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,2026,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,2026,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,2026,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,2026,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,2026,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,2026,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,2026,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+MLP-AE,2026,Z-mean,10,P1,True,P1,1.0,P3,0.0,5.002335548400879,high stealth
+MLP-AE,2026,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,2026,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,2026,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+MLP-AE,2026,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,2026,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,2026,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,2026,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+MLP-AE,2026,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,2026,Z-mean,20,P1,True,P3,0.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,2026,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,2026,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,2026,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+MLP-AE,2026,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,2026,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,2026,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,2026,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,2026,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,2026,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,2026,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,2026,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,2026,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,2026,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,2026,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,2026,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,2026,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,2026,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,2026,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,2026,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,2026,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+MLP-AE,2026,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,2026,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,2026,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,2026,GroupShapley,1,P1,True,,,P4,0.0,14.54720687866211,high stealth
+MLP-AE,2026,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,2026,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,2026,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,2026,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,2026,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,2026,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,2026,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+MLP-AE,2026,GroupShapley,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,2026,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,2026,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,2026,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,2026,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,2026,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,2026,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,2026,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+MLP-AE,2026,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,2026,GroupShapley,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,2026,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,2026,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,2026,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,2026,GroupShapley,25,P1,True,P4,0.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,2026,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,2026,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,2026,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,2026,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,2026,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,2026,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,2026,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,2026,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,2026,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,2026,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,2026,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,2026,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,2026,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,2026,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,2026,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,2026,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+MLP-AE,2026,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,2026,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,2026,Residual,0,P1,True,P2,0.0,P2,0.0,16.967288970947266,medium
+MLP-AE,2026,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,2026,Residual,2,P1,True,P2,0.0,P2,0.0,16.56101417541504,high stealth
+MLP-AE,2026,Residual,3,P2,True,P3,0.0,P3,0.0,22.145233154296875,medium
+MLP-AE,2026,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,2026,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,6,P1,True,P2,0.0,P2,0.0,131.1212158203125,low stealth
+MLP-AE,2026,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,2026,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,2026,Residual,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+MLP-AE,2026,Residual,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,2026,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,2026,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,2026,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,2026,Residual,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,2026,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,2026,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,2026,Residual,18,P1,True,,,P2,0.0,2.625920057296753,high stealth
+MLP-AE,2026,Residual,19,P2,True,P3,0.0,P3,0.0,22.047372817993164,medium
+MLP-AE,2026,Residual,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,2026,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,2026,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,2026,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,2026,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,2026,Residual,26,P1,True,P2,0.0,P2,0.0,133.47882080078125,low stealth
+MLP-AE,2026,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,2026,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,2026,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,2026,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,2026,Residual,34,P1+P3,False,P2,0.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,2026,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,2026,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,2026,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,2026,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,39,P1+P2,False,P3,0.0,P3,0.0,23.47080421447754,medium
+MLP-AE,2026,Residual,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,2026,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,2026,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,2026,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,2026,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,45,P1,True,P2,0.0,P2,0.0,13.650519371032717,high stealth
+MLP-AE,2026,Residual,46,P1,True,,,P2,0.0,5.331490516662598,high stealth
+MLP-AE,2026,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,2026,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,2026,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+MLP-AE,7,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,7,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,7,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,7,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,7,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,7,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,7,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,7,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,7,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+MLP-AE,7,Z-mean,10,P1,True,P3,0.0,P3,0.0,5.002335548400879,high stealth
+MLP-AE,7,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,7,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,7,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+MLP-AE,7,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,7,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,7,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,7,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+MLP-AE,7,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,7,Z-mean,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,7,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,7,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,7,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+MLP-AE,7,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,7,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,7,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,7,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,7,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,7,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,7,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,7,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,7,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,7,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,7,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,7,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,7,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,7,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,7,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,7,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,7,Z-mean,46,P1,True,P1,1.0,P4,0.0,5.331490516662598,high stealth
+MLP-AE,7,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,7,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,7,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,7,GroupShapley,1,P1,True,,,P4,0.0,14.54720687866211,high stealth
+MLP-AE,7,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,7,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,7,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,7,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,7,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,7,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,7,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+MLP-AE,7,GroupShapley,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,7,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,7,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,7,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,7,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,7,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,7,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,7,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+MLP-AE,7,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,7,GroupShapley,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,7,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,7,GroupShapley,23,P3,True,,,P2,0.0,5.432030200958252,high stealth
+MLP-AE,7,GroupShapley,24,P3,True,,,P4,0.0,2.614215612411499,high stealth
+MLP-AE,7,GroupShapley,25,P1,True,P4,0.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,7,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,7,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,7,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,7,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,7,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,7,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,7,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,7,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,7,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,7,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,7,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,7,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,7,GroupShapley,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,7,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,7,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,7,GroupShapley,46,P1,True,P1,1.0,P1,1.0,5.331490516662598,high stealth
+MLP-AE,7,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,7,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,7,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,7,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,7,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,7,Residual,3,P2,True,P3,0.0,P3,0.0,22.145233154296875,medium
+MLP-AE,7,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,7,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,7,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,7,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,7,Residual,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+MLP-AE,7,Residual,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,7,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,7,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,7,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,7,Residual,15,P2,True,P3,0.0,P3,0.0,25.08995819091797,medium
+MLP-AE,7,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,7,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,7,Residual,18,P1,True,,,P2,0.0,2.625920057296753,high stealth
+MLP-AE,7,Residual,19,P2,True,P3,0.0,P3,0.0,22.047372817993164,medium
+MLP-AE,7,Residual,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,7,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,7,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,7,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,7,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,7,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,7,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,7,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,7,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,32,P1+P2,False,P2,1.0,P2,1.0,24.196866989135746,medium
+MLP-AE,7,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,7,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,7,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,7,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,7,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,7,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,7,Residual,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,7,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,7,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,7,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,7,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,7,Residual,46,P1,True,P2,0.0,P2,0.0,5.331490516662598,high stealth
+MLP-AE,7,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,7,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,7,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+MLP-AE,99,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,99,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,99,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,99,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,99,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,99,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,99,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,99,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,99,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+MLP-AE,99,Z-mean,10,P1,True,P1,1.0,P3,0.0,5.002335548400879,high stealth
+MLP-AE,99,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,99,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,99,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+MLP-AE,99,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,99,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,99,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,99,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+MLP-AE,99,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,99,Z-mean,20,P1,True,P3,0.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,99,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,99,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,99,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+MLP-AE,99,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,99,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,99,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,99,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,99,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,99,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,99,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,99,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,99,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,99,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,99,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,99,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+MLP-AE,99,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,99,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,99,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,99,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,99,Z-mean,46,P1,True,P4,0.0,P4,0.0,5.331490516662598,high stealth
+MLP-AE,99,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,99,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,99,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,99,GroupShapley,1,P1,True,,,P4,0.0,14.54720687866211,high stealth
+MLP-AE,99,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,99,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,99,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+MLP-AE,99,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+MLP-AE,99,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,99,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,99,GroupShapley,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+MLP-AE,99,GroupShapley,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,99,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,99,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,99,GroupShapley,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,99,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,99,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+MLP-AE,99,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,99,GroupShapley,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+MLP-AE,99,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+MLP-AE,99,GroupShapley,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,99,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,99,GroupShapley,23,P3,True,,,P4,0.0,5.432030200958252,high stealth
+MLP-AE,99,GroupShapley,24,P3,True,,,P4,0.0,2.614215612411499,high stealth
+MLP-AE,99,GroupShapley,25,P1,True,P4,0.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,99,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+MLP-AE,99,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,99,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+MLP-AE,99,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,99,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,99,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,99,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,99,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,99,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,99,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,99,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,99,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,99,GroupShapley,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+MLP-AE,99,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,99,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+MLP-AE,99,GroupShapley,46,P1,True,P4,0.0,P4,0.0,5.331490516662598,high stealth
+MLP-AE,99,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,99,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+MLP-AE,99,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+MLP-AE,99,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+MLP-AE,99,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+MLP-AE,99,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+MLP-AE,99,Residual,4,P2,True,P3,0.0,P3,0.0,46.704376220703125,low stealth
+MLP-AE,99,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,6,P1,True,P2,0.0,P2,0.0,131.1212158203125,low stealth
+MLP-AE,99,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+MLP-AE,99,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+MLP-AE,99,Residual,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+MLP-AE,99,Residual,10,P1,True,P1,1.0,P1,1.0,5.002335548400879,high stealth
+MLP-AE,99,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+MLP-AE,99,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+MLP-AE,99,Residual,14,P1,True,P1,1.0,P1,1.0,5.087594985961914,high stealth
+MLP-AE,99,Residual,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+MLP-AE,99,Residual,16,P2,True,P4,0.0,P4,0.0,47.21147155761719,low stealth
+MLP-AE,99,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+MLP-AE,99,Residual,18,P1,True,,,P2,0.0,2.625920057296753,high stealth
+MLP-AE,99,Residual,19,P2,True,P3,0.0,P3,0.0,22.047372817993164,medium
+MLP-AE,99,Residual,20,P1,True,P1,1.0,P1,1.0,4.7111897468566895,high stealth
+MLP-AE,99,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+MLP-AE,99,Residual,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+MLP-AE,99,Residual,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+MLP-AE,99,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+MLP-AE,99,Residual,26,P1,True,P2,0.0,P2,0.0,133.47882080078125,low stealth
+MLP-AE,99,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+MLP-AE,99,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,30,P1+P2,False,P4,0.0,P4,0.0,46.72216796875,low stealth
+MLP-AE,99,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+MLP-AE,99,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+MLP-AE,99,Residual,34,P1+P3,False,P2,0.0,P1,1.0,14.894790649414062,high stealth
+MLP-AE,99,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+MLP-AE,99,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+MLP-AE,99,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+MLP-AE,99,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+MLP-AE,99,Residual,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+MLP-AE,99,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+MLP-AE,99,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+MLP-AE,99,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+MLP-AE,99,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+MLP-AE,99,Residual,46,P1,True,P4,0.0,P4,0.0,5.331490516662598,high stealth
+MLP-AE,99,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+MLP-AE,99,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+MLP-AE,99,Residual,49,P1,True,P2,0.0,P2,0.0,72.14295196533203,low stealth
+IForest,42,Z-mean,0,P1,True,,,P1,1.0,16.967288970947266,medium
+IForest,42,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,42,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,42,Z-mean,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,42,Z-mean,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,42,Z-mean,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,6,P1,True,,,P1,1.0,131.1212158203125,low stealth
+IForest,42,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,42,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+IForest,42,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+IForest,42,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+IForest,42,Z-mean,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,12,P1,True,,,P1,1.0,21.6521053314209,medium
+IForest,42,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,42,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+IForest,42,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,42,Z-mean,16,P2,True,,,P2,1.0,47.21147155761719,low stealth
+IForest,42,Z-mean,17,P1,True,,,P1,1.0,22.45084571838379,medium
+IForest,42,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+IForest,42,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,42,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,42,Z-mean,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,42,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,42,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,42,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,42,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,42,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,42,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,30,P1+P2,False,,,P2,1.0,46.72216796875,low stealth
+IForest,42,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,42,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,42,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,42,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,42,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,42,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,42,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+IForest,42,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+IForest,42,Z-mean,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,42,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+IForest,42,Z-mean,43,P2+P3,False,,,P2,1.0,24.22700309753418,medium
+IForest,42,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+IForest,42,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+IForest,42,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,42,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,42,GroupShapley,0,P1,True,,,P1,1.0,16.967288970947266,medium
+IForest,42,GroupShapley,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,42,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,42,GroupShapley,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,42,GroupShapley,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,42,GroupShapley,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,6,P1,True,,,P1,1.0,131.1212158203125,low stealth
+IForest,42,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,42,GroupShapley,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+IForest,42,GroupShapley,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+IForest,42,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+IForest,42,GroupShapley,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,12,P1,True,,,P1,1.0,21.6521053314209,medium
+IForest,42,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,42,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+IForest,42,GroupShapley,15,P2,True,,,P1,0.0,25.08995819091797,medium
+IForest,42,GroupShapley,16,P2,True,,,P4,0.0,47.21147155761719,low stealth
+IForest,42,GroupShapley,17,P1,True,,,P1,1.0,22.45084571838379,medium
+IForest,42,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+IForest,42,GroupShapley,19,P2,True,,,P1,0.0,22.047372817993164,medium
+IForest,42,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,42,GroupShapley,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,42,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,42,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+IForest,42,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,42,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,42,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,42,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,30,P1+P2,False,,,P2,1.0,46.72216796875,low stealth
+IForest,42,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,42,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,42,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,42,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,42,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,42,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,42,GroupShapley,38,P1+P2,False,P1,1.0,P1,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+IForest,42,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+IForest,42,GroupShapley,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,42,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+IForest,42,GroupShapley,43,P2+P3,False,,,P3,1.0,24.22700309753418,medium
+IForest,42,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+IForest,42,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+IForest,42,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,42,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,42,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,123,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,123,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,123,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,123,Z-mean,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,123,Z-mean,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,123,Z-mean,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,123,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,123,Z-mean,8,P1,True,P4,0.0,P1,1.0,12.16904640197754,high stealth
+IForest,123,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+IForest,123,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+IForest,123,Z-mean,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,12,P1,True,P3,0.0,P1,1.0,21.6521053314209,medium
+IForest,123,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,123,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+IForest,123,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,123,Z-mean,16,P2,True,,,P2,1.0,47.21147155761719,low stealth
+IForest,123,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,123,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+IForest,123,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,123,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,123,Z-mean,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,123,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,123,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,123,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,123,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,123,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,123,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,123,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,123,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,123,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,123,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,123,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,123,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,123,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+IForest,123,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+IForest,123,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+IForest,123,Z-mean,42,P1+P2,False,P1,1.0,P2,1.0,23.595354080200195,medium
+IForest,123,Z-mean,43,P2+P3,False,,,P2,1.0,24.22700309753418,medium
+IForest,123,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+IForest,123,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+IForest,123,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,123,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,123,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,123,GroupShapley,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,123,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,123,GroupShapley,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,123,GroupShapley,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,123,GroupShapley,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,123,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,123,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+IForest,123,GroupShapley,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+IForest,123,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+IForest,123,GroupShapley,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+IForest,123,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,123,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+IForest,123,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,123,GroupShapley,16,P2,True,,,P4,0.0,47.21147155761719,low stealth
+IForest,123,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,123,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+IForest,123,GroupShapley,19,P2,True,,,P1,0.0,22.047372817993164,medium
+IForest,123,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,123,GroupShapley,21,P2,True,,,P1,0.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,123,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,123,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+IForest,123,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,123,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,123,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,123,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,123,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,123,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,123,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,123,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,123,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,123,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,123,GroupShapley,38,P1+P2,False,P1,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+IForest,123,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+IForest,123,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+IForest,123,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+IForest,123,GroupShapley,43,P2+P3,False,,,P3,1.0,24.22700309753418,medium
+IForest,123,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+IForest,123,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+IForest,123,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,123,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,123,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,2026,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,2026,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,2026,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,2026,Z-mean,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,2026,Z-mean,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,2026,Z-mean,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,2026,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,2026,Z-mean,8,P1,True,P4,0.0,P1,1.0,12.16904640197754,high stealth
+IForest,2026,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+IForest,2026,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+IForest,2026,Z-mean,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+IForest,2026,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,2026,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+IForest,2026,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,2026,Z-mean,16,P2,True,,,P2,1.0,47.21147155761719,low stealth
+IForest,2026,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,2026,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+IForest,2026,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,2026,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,2026,Z-mean,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,2026,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,2026,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,2026,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,2026,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,2026,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,2026,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,2026,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,2026,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,2026,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,2026,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,2026,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,2026,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,2026,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,39,P1+P2,False,P4,0.0,P2,1.0,23.47080421447754,medium
+IForest,2026,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+IForest,2026,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+IForest,2026,Z-mean,42,P1+P2,False,P1,1.0,P2,1.0,23.595354080200195,medium
+IForest,2026,Z-mean,43,P2+P3,False,,,P2,1.0,24.22700309753418,medium
+IForest,2026,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+IForest,2026,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+IForest,2026,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,2026,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,2026,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,2026,GroupShapley,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,2026,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,2026,GroupShapley,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,2026,GroupShapley,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,2026,GroupShapley,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,2026,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,2026,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+IForest,2026,GroupShapley,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+IForest,2026,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+IForest,2026,GroupShapley,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+IForest,2026,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,2026,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+IForest,2026,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,2026,GroupShapley,16,P2,True,,,P4,0.0,47.21147155761719,low stealth
+IForest,2026,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,2026,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+IForest,2026,GroupShapley,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,2026,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,2026,GroupShapley,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,2026,GroupShapley,23,P3,True,,,P2,0.0,5.432030200958252,high stealth
+IForest,2026,GroupShapley,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,2026,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,2026,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,2026,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,2026,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,2026,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,2026,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,2026,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,2026,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,2026,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,2026,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,2026,GroupShapley,38,P1+P2,False,P1,1.0,P1,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+IForest,2026,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+IForest,2026,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+IForest,2026,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+IForest,2026,GroupShapley,43,P2+P3,False,,,P3,1.0,24.22700309753418,medium
+IForest,2026,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+IForest,2026,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+IForest,2026,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,2026,GroupShapley,48,P2+P3,False,P2,1.0,P1,0.0,173.5557403564453,low stealth
+IForest,2026,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,7,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,7,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,7,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,7,Z-mean,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,7,Z-mean,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,7,Z-mean,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,7,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,7,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+IForest,7,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+IForest,7,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+IForest,7,Z-mean,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,12,P1,True,,,P1,1.0,21.6521053314209,medium
+IForest,7,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,7,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+IForest,7,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,7,Z-mean,16,P2,True,,,P2,1.0,47.21147155761719,low stealth
+IForest,7,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,7,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+IForest,7,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,7,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,7,Z-mean,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,7,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,7,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,7,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,7,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,7,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,7,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,7,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,7,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,7,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,7,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,7,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,7,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,7,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+IForest,7,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+IForest,7,Z-mean,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,7,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+IForest,7,Z-mean,43,P2+P3,False,,,P2,1.0,24.22700309753418,medium
+IForest,7,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+IForest,7,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+IForest,7,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,7,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,7,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+IForest,7,GroupShapley,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,7,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,7,GroupShapley,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,7,GroupShapley,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,7,GroupShapley,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,7,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,7,GroupShapley,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+IForest,7,GroupShapley,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+IForest,7,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+IForest,7,GroupShapley,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,12,P1,True,,,P1,1.0,21.6521053314209,medium
+IForest,7,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,7,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+IForest,7,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,7,GroupShapley,16,P2,True,,,P4,0.0,47.21147155761719,low stealth
+IForest,7,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,7,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+IForest,7,GroupShapley,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,7,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,7,GroupShapley,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,7,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,7,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+IForest,7,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,7,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,7,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,7,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,7,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,7,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,7,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,7,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,7,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,7,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,7,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+IForest,7,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+IForest,7,GroupShapley,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,7,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+IForest,7,GroupShapley,43,P2+P3,False,,,P3,1.0,24.22700309753418,medium
+IForest,7,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+IForest,7,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+IForest,7,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,7,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,7,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,99,Z-mean,0,P1,True,,,P1,1.0,16.967288970947266,medium
+IForest,99,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,99,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,99,Z-mean,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,99,Z-mean,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,99,Z-mean,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,99,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,99,Z-mean,8,P1,True,P4,0.0,P1,1.0,12.16904640197754,high stealth
+IForest,99,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+IForest,99,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+IForest,99,Z-mean,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,12,P1,True,P3,0.0,P1,1.0,21.6521053314209,medium
+IForest,99,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,99,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+IForest,99,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,99,Z-mean,16,P2,True,,,P2,1.0,47.21147155761719,low stealth
+IForest,99,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,99,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+IForest,99,Z-mean,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,99,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,99,Z-mean,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,99,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,99,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+IForest,99,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,99,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,99,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,99,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,99,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,99,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,99,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,99,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,99,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,99,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,99,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,39,P1+P2,False,,,P2,1.0,23.47080421447754,medium
+IForest,99,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+IForest,99,Z-mean,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,99,Z-mean,42,P1+P2,False,P1,1.0,P2,1.0,23.595354080200195,medium
+IForest,99,Z-mean,43,P2+P3,False,,,P2,1.0,24.22700309753418,medium
+IForest,99,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+IForest,99,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+IForest,99,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,99,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+IForest,99,GroupShapley,0,P1,True,,,P1,1.0,16.967288970947266,medium
+IForest,99,GroupShapley,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+IForest,99,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+IForest,99,GroupShapley,3,P2,True,,,P2,1.0,22.145233154296875,medium
+IForest,99,GroupShapley,4,P2,True,,,P2,1.0,46.704376220703125,low stealth
+IForest,99,GroupShapley,5,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+IForest,99,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+IForest,99,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+IForest,99,GroupShapley,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+IForest,99,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+IForest,99,GroupShapley,11,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+IForest,99,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+IForest,99,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+IForest,99,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+IForest,99,GroupShapley,16,P2,True,,,P4,0.0,47.21147155761719,low stealth
+IForest,99,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+IForest,99,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+IForest,99,GroupShapley,19,P2,True,,,P2,1.0,22.047372817993164,medium
+IForest,99,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+IForest,99,GroupShapley,21,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+IForest,99,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+IForest,99,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+IForest,99,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+IForest,99,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+IForest,99,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+IForest,99,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,29,P2,True,,,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+IForest,99,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+IForest,99,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+IForest,99,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+IForest,99,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+IForest,99,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+IForest,99,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+IForest,99,GroupShapley,38,P1+P2,False,P1,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,39,P1+P2,False,,,P1,1.0,23.47080421447754,medium
+IForest,99,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+IForest,99,GroupShapley,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+IForest,99,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+IForest,99,GroupShapley,43,P2+P3,False,,,P3,1.0,24.22700309753418,medium
+IForest,99,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+IForest,99,GroupShapley,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+IForest,99,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+IForest,99,GroupShapley,48,P2+P3,False,P2,1.0,P1,0.0,173.5557403564453,low stealth
+IForest,99,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+Z-max,42,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+Z-max,42,Z-mean,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+Z-max,42,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+Z-max,42,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+Z-max,42,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+Z-max,42,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+Z-max,42,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+Z-max,42,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+Z-max,42,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+Z-max,42,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+Z-max,42,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+Z-max,42,Z-mean,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+Z-max,42,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+Z-max,42,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+Z-max,42,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+Z-max,42,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+Z-max,42,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+Z-max,42,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+Z-max,42,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+Z-max,42,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+Z-max,42,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+Z-max,42,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+Z-max,42,Z-mean,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+Z-max,42,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+Z-max,42,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+Z-max,42,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+Z-max,42,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+Z-max,42,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+Z-max,42,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+Z-max,42,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+Z-max,42,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+Z-max,42,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+Z-max,42,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+Z-max,42,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+Z-max,42,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+Z-max,42,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+Z-max,42,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+Z-max,42,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+Z-max,42,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+Z-max,42,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+Z-max,42,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+Z-max,42,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+Z-max,42,GroupShapley,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+Z-max,42,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+Z-max,42,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+Z-max,42,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+Z-max,42,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+Z-max,42,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+Z-max,42,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+Z-max,42,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+Z-max,42,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+Z-max,42,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+Z-max,42,GroupShapley,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+Z-max,42,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+Z-max,42,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+Z-max,42,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+Z-max,42,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+Z-max,42,GroupShapley,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+Z-max,42,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+Z-max,42,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+Z-max,42,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+Z-max,42,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+Z-max,42,GroupShapley,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+Z-max,42,GroupShapley,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+Z-max,42,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+Z-max,42,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+Z-max,42,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+Z-max,42,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+Z-max,42,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+Z-max,42,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+Z-max,42,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+Z-max,42,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+Z-max,42,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+Z-max,42,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+Z-max,42,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+Z-max,42,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+Z-max,42,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+Z-max,42,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+Z-max,42,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+Z-max,42,GroupShapley,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+Z-max,42,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+Z-max,42,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+Z-max,42,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+Z-max,42,Residual,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+Z-max,42,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+Z-max,42,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+Z-max,42,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+Z-max,42,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+Z-max,42,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+Z-max,42,Residual,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+Z-max,42,Residual,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+Z-max,42,Residual,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+Z-max,42,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+Z-max,42,Residual,13,P1,True,P1,1.0,P1,1.0,12.493006706237791,high stealth
+Z-max,42,Residual,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+Z-max,42,Residual,15,P2,True,P1,0.0,P2,1.0,25.08995819091797,medium
+Z-max,42,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+Z-max,42,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+Z-max,42,Residual,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+Z-max,42,Residual,19,P2,True,P1,0.0,P1,0.0,22.047372817993164,medium
+Z-max,42,Residual,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+Z-max,42,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,22,P1,True,P1,1.0,P1,1.0,19.911718368530277,medium
+Z-max,42,Residual,23,P3,True,,,P1,0.0,5.432030200958252,high stealth
+Z-max,42,Residual,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+Z-max,42,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+Z-max,42,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+Z-max,42,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+Z-max,42,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+Z-max,42,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+Z-max,42,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+Z-max,42,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+Z-max,42,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+Z-max,42,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+Z-max,42,Residual,37,P2+P3,False,P1,0.0,P1,0.0,26.86479949951172,low stealth
+Z-max,42,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,39,P1+P2,False,P1,1.0,P1,1.0,23.47080421447754,medium
+Z-max,42,Residual,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+Z-max,42,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+Z-max,42,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+Z-max,42,Residual,43,P2+P3,False,P1,0.0,P1,0.0,24.22700309753418,medium
+Z-max,42,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+Z-max,42,Residual,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+Z-max,42,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+Z-max,42,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+Z-max,42,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,42,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,42,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+USAD,42,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,42,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,42,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,42,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,42,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,42,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,42,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+USAD,42,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,42,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,42,Z-mean,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,42,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+USAD,42,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,42,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,42,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,42,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,42,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,42,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,42,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,42,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+USAD,42,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,42,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,42,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,42,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,42,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,42,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,32,P1+P2,False,P2,1.0,P1,1.0,24.196866989135746,medium
+USAD,42,Z-mean,33,P1,True,,,P1,1.0,18.91683959960937,medium
+USAD,42,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,42,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,42,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,42,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,42,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,42,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,42,Z-mean,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,42,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,42,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,42,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+USAD,42,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,42,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,42,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,42,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,42,GroupShapley,1,P1,True,,,P2,0.0,14.54720687866211,high stealth
+USAD,42,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,42,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,42,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,42,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,42,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,42,GroupShapley,8,P1,True,,,P3,0.0,12.16904640197754,high stealth
+USAD,42,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,42,GroupShapley,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,42,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,42,GroupShapley,13,P1,True,,,P3,0.0,12.493006706237791,high stealth
+USAD,42,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,42,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,42,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,42,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,42,GroupShapley,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,42,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,42,GroupShapley,20,P1,True,,,P4,0.0,4.7111897468566895,high stealth
+USAD,42,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,42,GroupShapley,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+USAD,42,GroupShapley,24,P3,True,,,P3,1.0,2.614215612411499,high stealth
+USAD,42,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,42,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,42,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,42,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,42,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,32,P1+P2,False,P1,1.0,P2,1.0,24.196866989135746,medium
+USAD,42,GroupShapley,33,P1,True,,,P4,0.0,18.91683959960937,medium
+USAD,42,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,42,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,42,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,42,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,42,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,42,GroupShapley,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,42,GroupShapley,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,42,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+USAD,42,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,42,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,45,P1,True,P1,1.0,P1,1.0,13.650519371032717,high stealth
+USAD,42,GroupShapley,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,42,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,42,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,42,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,42,Residual,1,P1,True,,,P4,0.0,14.54720687866211,high stealth
+USAD,42,Residual,2,P1,True,P4,0.0,P1,1.0,16.56101417541504,high stealth
+USAD,42,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,42,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,42,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,42,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,42,Residual,8,P1,True,,,P4,0.0,12.16904640197754,high stealth
+USAD,42,Residual,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+USAD,42,Residual,10,P1,True,,,P4,0.0,5.002335548400879,high stealth
+USAD,42,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,42,Residual,13,P1,True,,,P4,0.0,12.493006706237791,high stealth
+USAD,42,Residual,14,P1,True,,,P4,0.0,5.087594985961914,high stealth
+USAD,42,Residual,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,42,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,42,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,42,Residual,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+USAD,42,Residual,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,42,Residual,20,P1,True,,,P4,0.0,4.7111897468566895,high stealth
+USAD,42,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,42,Residual,23,P3,True,,,P4,0.0,5.432030200958252,high stealth
+USAD,42,Residual,24,P3,True,,,P4,0.0,2.614215612411499,high stealth
+USAD,42,Residual,25,P1,True,,,P2,0.0,11.502923011779783,high stealth
+USAD,42,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,42,Residual,27,P1,True,P4,0.0,P4,0.0,19.12918281555176,medium
+USAD,42,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,42,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,32,P1+P2,False,P2,1.0,P2,1.0,24.196866989135746,medium
+USAD,42,Residual,33,P1,True,,,P4,0.0,18.91683959960937,medium
+USAD,42,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,42,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,42,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,42,Residual,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,42,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,42,Residual,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,42,Residual,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,42,Residual,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,42,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,42,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,45,P1,True,P4,0.0,P4,0.0,13.650519371032717,high stealth
+USAD,42,Residual,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,42,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,42,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,42,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,123,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,123,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+USAD,123,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,123,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,123,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,123,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,123,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,123,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,123,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+USAD,123,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,123,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,123,Z-mean,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,123,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+USAD,123,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,123,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,123,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,123,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,123,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,123,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,123,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,123,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+USAD,123,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,123,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,123,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,123,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,123,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,123,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,32,P1+P2,False,P2,1.0,P1,1.0,24.196866989135746,medium
+USAD,123,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,123,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,123,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,123,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,123,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,123,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,123,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,123,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,123,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,123,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,123,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+USAD,123,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,123,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,123,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,123,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,123,GroupShapley,1,P1,True,,,P2,0.0,14.54720687866211,high stealth
+USAD,123,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,123,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,123,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,123,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,123,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,123,GroupShapley,8,P1,True,,,P2,0.0,12.16904640197754,high stealth
+USAD,123,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,123,GroupShapley,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,123,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,123,GroupShapley,13,P1,True,,,P4,0.0,12.493006706237791,high stealth
+USAD,123,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,123,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,123,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,123,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,123,GroupShapley,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+USAD,123,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,123,GroupShapley,20,P1,True,,,P2,0.0,4.7111897468566895,high stealth
+USAD,123,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,123,GroupShapley,23,P3,True,,,P2,0.0,5.432030200958252,high stealth
+USAD,123,GroupShapley,24,P3,True,,,P2,0.0,2.614215612411499,high stealth
+USAD,123,GroupShapley,25,P1,True,,,P2,0.0,11.502923011779783,high stealth
+USAD,123,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,123,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,123,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,123,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+USAD,123,GroupShapley,33,P1,True,P1,1.0,P4,0.0,18.91683959960937,medium
+USAD,123,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,123,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,123,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,123,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,123,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,123,GroupShapley,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,123,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,123,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+USAD,123,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,123,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,123,GroupShapley,46,P1,True,,,P2,0.0,5.331490516662598,high stealth
+USAD,123,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,123,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,123,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,123,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+USAD,123,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,123,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,123,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,123,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,123,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,123,Residual,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,123,Residual,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,123,Residual,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+USAD,123,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,123,Residual,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,123,Residual,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,123,Residual,15,P2,True,,,P1,0.0,25.08995819091797,medium
+USAD,123,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,123,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,123,Residual,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+USAD,123,Residual,19,P2,True,P1,0.0,P1,0.0,22.047372817993164,medium
+USAD,123,Residual,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,123,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,123,Residual,23,P3,True,,,P1,0.0,5.432030200958252,high stealth
+USAD,123,Residual,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,123,Residual,25,P1,True,,,P4,0.0,11.502923011779783,high stealth
+USAD,123,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,123,Residual,27,P1,True,P4,0.0,P4,0.0,19.12918281555176,medium
+USAD,123,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,123,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+USAD,123,Residual,33,P1,True,P4,0.0,P4,0.0,18.91683959960937,medium
+USAD,123,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,123,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,123,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,123,Residual,37,P2+P3,False,P1,0.0,P1,0.0,26.86479949951172,low stealth
+USAD,123,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,39,P1+P2,False,P2,1.0,P4,0.0,23.47080421447754,medium
+USAD,123,Residual,40,P1+P2,False,P4,0.0,P4,0.0,22.8146915435791,medium
+USAD,123,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,123,Residual,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+USAD,123,Residual,43,P2+P3,False,P2,1.0,P1,0.0,24.22700309753418,medium
+USAD,123,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,123,Residual,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+USAD,123,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,123,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,123,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,2026,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,2026,Z-mean,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+USAD,2026,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,2026,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,2026,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,2026,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,2026,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,2026,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,2026,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+USAD,2026,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,2026,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,2026,Z-mean,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,2026,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+USAD,2026,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,2026,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,2026,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,2026,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,2026,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,2026,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,2026,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,22,P1,True,,,P1,1.0,19.91171836853028,medium
+USAD,2026,Z-mean,23,P3,True,,,P3,1.0,5.432030200958252,high stealth
+USAD,2026,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,2026,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,2026,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,2026,Z-mean,27,P1,True,,,P1,1.0,19.12918281555176,medium
+USAD,2026,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,2026,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+USAD,2026,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,2026,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,2026,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,2026,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,2026,Z-mean,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,2026,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,2026,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,2026,Z-mean,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,2026,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,2026,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,2026,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+USAD,2026,Z-mean,46,P1,True,P3,0.0,P4,0.0,5.331490516662598,high stealth
+USAD,2026,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,2026,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,2026,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,2026,GroupShapley,1,P1,True,,,P2,0.0,14.54720687866211,high stealth
+USAD,2026,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,2026,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,2026,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,2026,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,2026,GroupShapley,7,P1,True,,,P2,0.0,8.460548400878906,high stealth
+USAD,2026,GroupShapley,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,2026,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,2026,GroupShapley,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+USAD,2026,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,2026,GroupShapley,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,2026,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,2026,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,2026,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,2026,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,2026,GroupShapley,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+USAD,2026,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,2026,GroupShapley,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,2026,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,22,P1,True,,,P1,1.0,19.91171836853028,medium
+USAD,2026,GroupShapley,23,P3,True,,,P2,0.0,5.432030200958252,high stealth
+USAD,2026,GroupShapley,24,P3,True,,,P4,0.0,2.614215612411499,high stealth
+USAD,2026,GroupShapley,25,P1,True,,,P4,0.0,11.502923011779783,high stealth
+USAD,2026,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,2026,GroupShapley,27,P1,True,,,P1,1.0,19.12918281555176,medium
+USAD,2026,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,2026,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+USAD,2026,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,2026,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,2026,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,2026,GroupShapley,36,P1+P2,False,P1,1.0,P2,1.0,23.87114524841309,medium
+USAD,2026,GroupShapley,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,2026,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,2026,GroupShapley,40,P1+P2,False,P1,1.0,P1,1.0,22.8146915435791,medium
+USAD,2026,GroupShapley,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,2026,GroupShapley,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,2026,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,2026,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,2026,GroupShapley,46,P1,True,P1,1.0,P1,1.0,5.331490516662598,high stealth
+USAD,2026,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,2026,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,2026,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,2026,Residual,1,P1,True,,,P1,1.0,14.54720687866211,high stealth
+USAD,2026,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,2026,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,2026,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,2026,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,2026,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,2026,Residual,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,2026,Residual,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,2026,Residual,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+USAD,2026,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,2026,Residual,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,2026,Residual,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,2026,Residual,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,2026,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,2026,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,2026,Residual,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+USAD,2026,Residual,19,P2,True,P2,1.0,P1,0.0,22.047372817993164,medium
+USAD,2026,Residual,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,2026,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,22,P1,True,,,P1,1.0,19.91171836853028,medium
+USAD,2026,Residual,23,P3,True,,,P1,0.0,5.432030200958252,high stealth
+USAD,2026,Residual,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,2026,Residual,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,2026,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,2026,Residual,27,P1,True,,,P4,0.0,19.12918281555176,medium
+USAD,2026,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,2026,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,32,P1+P2,False,P2,1.0,P2,1.0,24.196866989135746,medium
+USAD,2026,Residual,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,2026,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,2026,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,2026,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,2026,Residual,37,P2+P3,False,,,P2,1.0,26.86479949951172,low stealth
+USAD,2026,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,2026,Residual,40,P1+P2,False,P2,1.0,P1,1.0,22.8146915435791,medium
+USAD,2026,Residual,41,P1+P3,False,,,P1,1.0,16.603328704833984,high stealth
+USAD,2026,Residual,42,P1+P2,False,P2,1.0,P1,1.0,23.595354080200195,medium
+USAD,2026,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,2026,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,2026,Residual,46,P1,True,P1,1.0,P1,1.0,5.331490516662598,high stealth
+USAD,2026,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,2026,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,2026,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,7,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,7,Z-mean,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+USAD,7,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,7,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,7,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,7,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,7,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,7,Z-mean,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+USAD,7,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+USAD,7,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,7,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,7,Z-mean,13,P1,True,P3,0.0,P1,1.0,12.493006706237791,high stealth
+USAD,7,Z-mean,14,P1,True,P1,1.0,P3,0.0,5.087594985961914,high stealth
+USAD,7,Z-mean,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+USAD,7,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,7,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,7,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,7,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,7,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,7,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,7,Z-mean,23,P3,True,P3,1.0,P3,1.0,5.432030200958252,high stealth
+USAD,7,Z-mean,24,P3,True,P3,1.0,P1,0.0,2.614215612411499,high stealth
+USAD,7,Z-mean,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,7,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,7,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,7,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,7,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,32,P1+P2,False,P1,1.0,P1,1.0,24.196866989135746,medium
+USAD,7,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,7,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,7,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,7,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,7,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,7,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,7,Z-mean,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,7,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,7,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,7,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,7,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+USAD,7,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,7,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,7,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,7,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,7,GroupShapley,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+USAD,7,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,7,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,7,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,7,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,7,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,7,GroupShapley,8,P1,True,P1,1.0,P1,1.0,12.16904640197754,high stealth
+USAD,7,GroupShapley,9,P1,True,,,P2,0.0,2.163761854171753,high stealth
+USAD,7,GroupShapley,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,7,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,7,GroupShapley,13,P1,True,P3,0.0,P4,0.0,12.493006706237791,high stealth
+USAD,7,GroupShapley,14,P1,True,P4,0.0,P2,0.0,5.087594985961914,high stealth
+USAD,7,GroupShapley,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+USAD,7,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,7,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,7,GroupShapley,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,7,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,7,GroupShapley,20,P1,True,,,P3,0.0,4.7111897468566895,high stealth
+USAD,7,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,7,GroupShapley,23,P3,True,P3,1.0,P3,1.0,5.432030200958252,high stealth
+USAD,7,GroupShapley,24,P3,True,P3,1.0,P3,1.0,2.614215612411499,high stealth
+USAD,7,GroupShapley,25,P1,True,,,P1,1.0,11.502923011779783,high stealth
+USAD,7,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,7,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,7,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,7,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,32,P1+P2,False,P1,1.0,P2,1.0,24.196866989135746,medium
+USAD,7,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,7,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,7,GroupShapley,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,7,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,7,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,7,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,7,GroupShapley,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,7,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,7,GroupShapley,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,7,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,7,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,7,GroupShapley,46,P1,True,,,P3,0.0,5.331490516662598,high stealth
+USAD,7,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,7,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,7,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,7,Residual,1,P1,True,P4,0.0,P4,0.0,14.54720687866211,high stealth
+USAD,7,Residual,2,P1,True,P4,0.0,P4,0.0,16.56101417541504,high stealth
+USAD,7,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,7,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,7,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,7,Residual,7,P1,True,,,P4,0.0,8.460548400878906,high stealth
+USAD,7,Residual,8,P1,True,P4,0.0,P4,0.0,12.16904640197754,high stealth
+USAD,7,Residual,9,P1,True,,,P4,0.0,2.163761854171753,high stealth
+USAD,7,Residual,10,P1,True,,,P4,0.0,5.002335548400879,high stealth
+USAD,7,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,12,P1,True,P4,0.0,P4,0.0,21.6521053314209,medium
+USAD,7,Residual,13,P1,True,P4,0.0,P4,0.0,12.493006706237791,high stealth
+USAD,7,Residual,14,P1,True,P4,0.0,P4,0.0,5.087594985961914,high stealth
+USAD,7,Residual,15,P2,True,P2,1.0,P2,1.0,25.08995819091797,medium
+USAD,7,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,7,Residual,17,P1,True,P4,0.0,P4,0.0,22.45084571838379,medium
+USAD,7,Residual,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+USAD,7,Residual,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,7,Residual,20,P1,True,,,P4,0.0,4.7111897468566895,high stealth
+USAD,7,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,22,P1,True,P4,0.0,P4,0.0,19.91171836853028,medium
+USAD,7,Residual,23,P3,True,P4,0.0,P4,0.0,5.432030200958252,high stealth
+USAD,7,Residual,24,P3,True,P4,0.0,P4,0.0,2.614215612411499,high stealth
+USAD,7,Residual,25,P1,True,,,P4,0.0,11.502923011779783,high stealth
+USAD,7,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,7,Residual,27,P1,True,P4,0.0,P4,0.0,19.12918281555176,medium
+USAD,7,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,7,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,32,P1+P2,False,P4,0.0,P4,0.0,24.196866989135746,medium
+USAD,7,Residual,33,P1,True,P4,0.0,P4,0.0,18.91683959960937,medium
+USAD,7,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,7,Residual,35,P1+P3,False,P4,0.0,P4,0.0,24.7430362701416,medium
+USAD,7,Residual,36,P1+P2,False,P4,0.0,P4,0.0,23.87114524841309,medium
+USAD,7,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,7,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,7,Residual,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,7,Residual,41,P1+P3,False,P4,0.0,P4,0.0,16.603328704833984,high stealth
+USAD,7,Residual,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,7,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,7,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+USAD,7,Residual,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,7,Residual,47,P1,True,P1,1.0,P4,0.0,28.11004066467285,low stealth
+USAD,7,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,7,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,99,Z-mean,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,99,Z-mean,1,P1,True,P2,0.0,P1,1.0,14.54720687866211,high stealth
+USAD,99,Z-mean,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,99,Z-mean,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,99,Z-mean,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,99,Z-mean,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,99,Z-mean,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,99,Z-mean,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,99,Z-mean,9,P1,True,,,P3,0.0,2.163761854171753,high stealth
+USAD,99,Z-mean,10,P1,True,,,P3,0.0,5.002335548400879,high stealth
+USAD,99,Z-mean,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,99,Z-mean,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,99,Z-mean,14,P1,True,,,P3,0.0,5.087594985961914,high stealth
+USAD,99,Z-mean,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,99,Z-mean,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,99,Z-mean,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,99,Z-mean,18,P1,True,,,P3,0.0,2.625920057296753,high stealth
+USAD,99,Z-mean,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,99,Z-mean,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,99,Z-mean,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,99,Z-mean,23,P3,True,P1,0.0,P3,1.0,5.432030200958252,high stealth
+USAD,99,Z-mean,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,99,Z-mean,25,P1,True,P2,0.0,P1,1.0,11.502923011779783,high stealth
+USAD,99,Z-mean,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,99,Z-mean,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,99,Z-mean,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,99,Z-mean,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,32,P1+P2,False,P2,1.0,P1,1.0,24.196866989135746,medium
+USAD,99,Z-mean,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,99,Z-mean,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,99,Z-mean,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,99,Z-mean,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,99,Z-mean,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,99,Z-mean,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,99,Z-mean,40,P1+P2,False,P1,1.0,P2,1.0,22.8146915435791,medium
+USAD,99,Z-mean,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,99,Z-mean,42,P1+P2,False,P2,1.0,P2,1.0,23.595354080200195,medium
+USAD,99,Z-mean,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,99,Z-mean,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,45,P1,True,,,P4,0.0,13.650519371032717,high stealth
+USAD,99,Z-mean,46,P1,True,,,P4,0.0,5.331490516662598,high stealth
+USAD,99,Z-mean,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,99,Z-mean,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Z-mean,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,99,GroupShapley,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,99,GroupShapley,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+USAD,99,GroupShapley,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,99,GroupShapley,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,99,GroupShapley,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,99,GroupShapley,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,99,GroupShapley,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,99,GroupShapley,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,99,GroupShapley,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,99,GroupShapley,10,P1,True,,,P4,0.0,5.002335548400879,high stealth
+USAD,99,GroupShapley,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,99,GroupShapley,13,P1,True,,,P4,0.0,12.493006706237791,high stealth
+USAD,99,GroupShapley,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,99,GroupShapley,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,99,GroupShapley,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,99,GroupShapley,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,99,GroupShapley,18,P1,True,,,P4,0.0,2.625920057296753,high stealth
+USAD,99,GroupShapley,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,99,GroupShapley,20,P1,True,,,P2,0.0,4.7111897468566895,high stealth
+USAD,99,GroupShapley,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,99,GroupShapley,23,P3,True,P1,0.0,P1,0.0,5.432030200958252,high stealth
+USAD,99,GroupShapley,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,99,GroupShapley,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+USAD,99,GroupShapley,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,99,GroupShapley,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,99,GroupShapley,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,99,GroupShapley,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,32,P1+P2,False,P2,1.0,P2,1.0,24.196866989135746,medium
+USAD,99,GroupShapley,33,P1,True,P1,1.0,P1,1.0,18.91683959960937,medium
+USAD,99,GroupShapley,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,99,GroupShapley,35,P1+P3,False,P1,1.0,P4,0.0,24.7430362701416,medium
+USAD,99,GroupShapley,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,99,GroupShapley,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,99,GroupShapley,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,99,GroupShapley,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,99,GroupShapley,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,99,GroupShapley,42,P1+P2,False,P1,1.0,P1,1.0,23.595354080200195,medium
+USAD,99,GroupShapley,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,99,GroupShapley,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,99,GroupShapley,46,P1,True,,,P2,0.0,5.331490516662598,high stealth
+USAD,99,GroupShapley,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,99,GroupShapley,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,GroupShapley,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth
+USAD,99,Residual,0,P1,True,P1,1.0,P1,1.0,16.967288970947266,medium
+USAD,99,Residual,1,P1,True,P1,1.0,P1,1.0,14.54720687866211,high stealth
+USAD,99,Residual,2,P1,True,P1,1.0,P1,1.0,16.56101417541504,high stealth
+USAD,99,Residual,3,P2,True,P2,1.0,P2,1.0,22.145233154296875,medium
+USAD,99,Residual,4,P2,True,P2,1.0,P2,1.0,46.704376220703125,low stealth
+USAD,99,Residual,5,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,6,P1,True,P1,1.0,P1,1.0,131.1212158203125,low stealth
+USAD,99,Residual,7,P1,True,,,P1,1.0,8.460548400878906,high stealth
+USAD,99,Residual,8,P1,True,,,P1,1.0,12.16904640197754,high stealth
+USAD,99,Residual,9,P1,True,,,P1,1.0,2.163761854171753,high stealth
+USAD,99,Residual,10,P1,True,,,P1,1.0,5.002335548400879,high stealth
+USAD,99,Residual,11,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,12,P1,True,P1,1.0,P1,1.0,21.6521053314209,medium
+USAD,99,Residual,13,P1,True,,,P1,1.0,12.493006706237791,high stealth
+USAD,99,Residual,14,P1,True,,,P1,1.0,5.087594985961914,high stealth
+USAD,99,Residual,15,P2,True,,,P2,1.0,25.08995819091797,medium
+USAD,99,Residual,16,P2,True,P2,1.0,P2,1.0,47.21147155761719,low stealth
+USAD,99,Residual,17,P1,True,P1,1.0,P1,1.0,22.45084571838379,medium
+USAD,99,Residual,18,P1,True,,,P1,1.0,2.625920057296753,high stealth
+USAD,99,Residual,19,P2,True,P2,1.0,P2,1.0,22.047372817993164,medium
+USAD,99,Residual,20,P1,True,,,P1,1.0,4.7111897468566895,high stealth
+USAD,99,Residual,21,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,22,P1,True,P1,1.0,P1,1.0,19.91171836853028,medium
+USAD,99,Residual,23,P3,True,P1,0.0,P1,0.0,5.432030200958252,high stealth
+USAD,99,Residual,24,P3,True,,,P1,0.0,2.614215612411499,high stealth
+USAD,99,Residual,25,P1,True,P1,1.0,P1,1.0,11.502923011779783,high stealth
+USAD,99,Residual,26,P1,True,P1,1.0,P1,1.0,133.47882080078125,low stealth
+USAD,99,Residual,27,P1,True,P1,1.0,P1,1.0,19.12918281555176,medium
+USAD,99,Residual,28,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,29,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,30,P1+P2,False,P2,1.0,P2,1.0,46.72216796875,low stealth
+USAD,99,Residual,31,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,32,P1+P2,False,P2,1.0,P1,1.0,24.196866989135746,medium
+USAD,99,Residual,33,P1,True,P4,0.0,P4,0.0,18.91683959960937,medium
+USAD,99,Residual,34,P1+P3,False,P1,1.0,P1,1.0,14.894790649414062,high stealth
+USAD,99,Residual,35,P1+P3,False,P1,1.0,P1,1.0,24.7430362701416,medium
+USAD,99,Residual,36,P1+P2,False,P1,1.0,P1,1.0,23.87114524841309,medium
+USAD,99,Residual,37,P2+P3,False,P2,1.0,P2,1.0,26.86479949951172,low stealth
+USAD,99,Residual,38,P1+P2,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,39,P1+P2,False,P2,1.0,P2,1.0,23.47080421447754,medium
+USAD,99,Residual,40,P1+P2,False,P2,1.0,P2,1.0,22.8146915435791,medium
+USAD,99,Residual,41,P1+P3,False,P1,1.0,P1,1.0,16.603328704833984,high stealth
+USAD,99,Residual,42,P1+P2,False,P2,1.0,P1,1.0,23.595354080200195,medium
+USAD,99,Residual,43,P2+P3,False,P2,1.0,P2,1.0,24.22700309753418,medium
+USAD,99,Residual,44,P2,True,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,45,P1,True,,,P1,1.0,13.650519371032717,high stealth
+USAD,99,Residual,46,P1,True,,,P1,1.0,5.331490516662598,high stealth
+USAD,99,Residual,47,P1,True,P1,1.0,P1,1.0,28.11004066467285,low stealth
+USAD,99,Residual,48,P2+P3,False,P2,1.0,P2,1.0,173.5557403564453,low stealth
+USAD,99,Residual,49,P1,True,P1,1.0,P1,1.0,72.14295196533203,low stealth

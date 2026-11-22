@@ -1,0 +1,11 @@
+detector,method,hit_mean,hit_sd,events
+IForest,GroupShapley (same seconds),1.0,0.0,14.0
+IForest,KernelSHAP,1.0,0.0,14.0
+MLP-AE,GroupShapley (same seconds),0.952779374201788,0.017869783431750528,29.6
+MLP-AE,KernelSHAP,0.9598627075351214,0.012592296700183336,29.6
+PCA,GroupShapley (same seconds),1.0,,29.0
+PCA,KernelSHAP,1.0,,29.0
+USAD,GroupShapley (same seconds),0.9773809523809524,0.03271102777150972,22.8
+USAD,KernelSHAP,0.9773809523809524,0.03271102777150972,22.8
+Z-max,GroupShapley (same seconds),1.0,,27.0
+Z-max,KernelSHAP,1.0,,27.0
