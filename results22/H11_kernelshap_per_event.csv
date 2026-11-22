@@ -1,0 +1,3017 @@
+detector,seed,level,method,id,top_oracle,hit_oracle,seconds_explained
+PCA,42,process,KernelSHAP,A101,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A101,P1,1.0,20
+PCA,42,loop,KernelSHAP,A101,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A102,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A102,P1,1.0,20
+PCA,42,loop,KernelSHAP,A102,P1-LC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+PCA,42,process,KernelSHAP,A103,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A103,P1,1.0,20
+PCA,42,loop,KernelSHAP,A103,P1-FC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A103,P1-FC,1.0,20
+PCA,42,process,KernelSHAP,A104,P4,0.0,20
+PCA,42,process,GroupShapley (same seconds),A104,P4,0.0,20
+PCA,42,loop,KernelSHAP,A104,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A104,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A105,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A105,P1,1.0,20
+PCA,42,loop,KernelSHAP,A105,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A105,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A106,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A106,P1,1.0,20
+PCA,42,loop,KernelSHAP,A106,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A107,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A107,P1,1.0,20
+PCA,42,loop,KernelSHAP,A107,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A201,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A201,P1,1.0,20
+PCA,42,loop,KernelSHAP,A201,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A201,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A202,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A202,P1,1.0,20
+PCA,42,loop,KernelSHAP,A202,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A202,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A203,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A203,P2,1.0,20
+PCA,42,loop,KernelSHAP,A203,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A203,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A204,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A204,P1,1.0,20
+PCA,42,loop,KernelSHAP,A204,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A204,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A205,P1,0.0,20
+PCA,42,process,GroupShapley (same seconds),A205,P1,0.0,20
+PCA,42,loop,KernelSHAP,A205,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A205,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A206,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A206,P2,1.0,20
+PCA,42,loop,KernelSHAP,A206,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A206,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A207,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A207,P1,1.0,20
+PCA,42,loop,KernelSHAP,A207,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A207,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A208,P1,0.0,20
+PCA,42,process,GroupShapley (same seconds),A208,P1,0.0,20
+PCA,42,loop,KernelSHAP,A208,P1-PC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+PCA,42,process,KernelSHAP,A209,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A209,P1,1.0,20
+PCA,42,loop,KernelSHAP,A209,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A209,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A210,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A210,P2,1.0,20
+PCA,42,loop,KernelSHAP,A210,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A211,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A211,P1,1.0,20
+PCA,42,loop,KernelSHAP,A211,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A211,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A212,P1,0.0,20
+PCA,42,process,GroupShapley (same seconds),A212,P1,0.0,20
+PCA,42,loop,KernelSHAP,A212,P1-PC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+PCA,42,process,KernelSHAP,A213,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A213,P1,1.0,20
+PCA,42,loop,KernelSHAP,A213,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A213,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A214,P2,0.0,20
+PCA,42,process,GroupShapley (same seconds),A214,P2,0.0,20
+PCA,42,loop,KernelSHAP,A214,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A214,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A215,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A215,P1,1.0,20
+PCA,42,loop,KernelSHAP,A215,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A215,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A216,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A216,P1,1.0,20
+PCA,42,loop,KernelSHAP,A216,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A216,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A217,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A217,P1,1.0,20
+PCA,42,loop,KernelSHAP,A217,P1-FC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A217,P1-FC,1.0,20
+PCA,42,process,KernelSHAP,A301,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A301,P1,1.0,20
+PCA,42,loop,KernelSHAP,A301,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A301,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A302,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A302,P1,1.0,20
+PCA,42,loop,KernelSHAP,A302,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A302,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A303,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A303,P1,1.0,20
+PCA,42,loop,KernelSHAP,A303,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A304,P1,0.0,20
+PCA,42,process,GroupShapley (same seconds),A304,P1,0.0,20
+PCA,42,loop,KernelSHAP,A304,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A304,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A305,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A305,P1,1.0,20
+PCA,42,loop,KernelSHAP,A305,P1-LC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+PCA,42,process,KernelSHAP,A306,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A306,P1,1.0,20
+PCA,42,loop,KernelSHAP,A306,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A306,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A307,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A307,P1,1.0,20
+PCA,42,loop,KernelSHAP,A307,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A307,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A308,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A308,P1,1.0,20
+PCA,42,loop,KernelSHAP,A308,P1-LC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A308,P1-LC,0.0,20
+PCA,42,process,KernelSHAP,A309,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A309,P1,1.0,20
+PCA,42,loop,KernelSHAP,A309,P1-FC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A309,P1-FC,1.0,20
+PCA,42,process,KernelSHAP,A310,P3,1.0,20
+PCA,42,process,GroupShapley (same seconds),A310,P3,1.0,20
+PCA,42,loop,KernelSHAP,A310,P3-LC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+PCA,42,process,KernelSHAP,A401,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A401,P2,1.0,20
+PCA,42,loop,KernelSHAP,A401,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A402,P4,0.0,20
+PCA,42,process,GroupShapley (same seconds),A402,P4,0.0,20
+PCA,42,loop,KernelSHAP,A402,P4-HIL,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A402,P4-HIL,0.0,20
+PCA,42,process,KernelSHAP,A403,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A403,P2,1.0,20
+PCA,42,loop,KernelSHAP,A403,P2-TR,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+PCA,42,process,KernelSHAP,A404,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A404,P2,1.0,20
+PCA,42,loop,KernelSHAP,A404,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A405,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A405,P1,1.0,20
+PCA,42,loop,KernelSHAP,A405,P1-PC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A405,P1-PC,0.0,20
+PCA,42,process,KernelSHAP,A406,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A406,P1,1.0,20
+PCA,42,loop,KernelSHAP,A406,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A406,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A407,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A407,P1,1.0,20
+PCA,42,loop,KernelSHAP,A407,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A407,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A408,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A408,P1,1.0,20
+PCA,42,loop,KernelSHAP,A408,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A409,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A409,P1,1.0,20
+PCA,42,loop,KernelSHAP,A409,P1-LC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+PCA,42,process,KernelSHAP,A410,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A410,P2,1.0,20
+PCA,42,loop,KernelSHAP,A410,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A411,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A411,P2,1.0,20
+PCA,42,loop,KernelSHAP,A411,P2-TR,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+PCA,42,process,KernelSHAP,A412,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A412,P1,1.0,20
+PCA,42,loop,KernelSHAP,A412,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A412,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A413,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A413,P2,1.0,20
+PCA,42,loop,KernelSHAP,A413,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A414,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A414,P2,1.0,20
+PCA,42,loop,KernelSHAP,A414,P2-TR,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+PCA,42,process,KernelSHAP,A415,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A415,P2,1.0,20
+PCA,42,loop,KernelSHAP,A415,P2-TR,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+PCA,42,process,KernelSHAP,A416,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A416,P1,1.0,20
+PCA,42,loop,KernelSHAP,A416,P1-FC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A416,P1-FC,1.0,20
+PCA,42,process,KernelSHAP,A417,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A417,P1,1.0,20
+PCA,42,loop,KernelSHAP,A417,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A417,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A418,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A418,P1,1.0,20
+PCA,42,loop,KernelSHAP,A418,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A419,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A419,P1,1.0,20
+PCA,42,loop,KernelSHAP,A419,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A419,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A420,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A420,P1,1.0,20
+PCA,42,loop,KernelSHAP,A420,P1-PC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A420,P1-PC,1.0,20
+PCA,42,process,KernelSHAP,A421,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A421,P2,1.0,20
+PCA,42,loop,KernelSHAP,A421,P1-PC,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A421,P1-PC,0.0,20
+PCA,42,process,KernelSHAP,A422,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A422,P2,1.0,20
+PCA,42,loop,KernelSHAP,A422,P2-SC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+PCA,42,process,KernelSHAP,A423,P2,1.0,20
+PCA,42,process,GroupShapley (same seconds),A423,P2,1.0,20
+PCA,42,loop,KernelSHAP,A423,P1-other,0.0,20
+PCA,42,loop,GroupShapley (same seconds),A423,P1-other,0.0,20
+PCA,42,process,KernelSHAP,A424,P1,1.0,20
+PCA,42,process,GroupShapley (same seconds),A424,P1,1.0,20
+PCA,42,loop,KernelSHAP,A424,P1-FC,1.0,20
+PCA,42,loop,GroupShapley (same seconds),A424,P1-FC,1.0,20
+MLP-AE,42,process,KernelSHAP,A101,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A101,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A101,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A102,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A102,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A102,P1-LC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+MLP-AE,42,process,KernelSHAP,A103,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A103,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A103,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A104,P1,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A104,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A104,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A105,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A105,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A105,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A106,P2,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A106,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A106,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A107,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A107,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A107,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A201,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A201,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A201,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A202,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A202,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A202,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A202,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A203,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A203,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A203,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A203,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A204,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A204,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A204,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A204,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A205,P4,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A205,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A205,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A205,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A206,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A206,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A206,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A206,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A207,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A207,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A207,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A208,P1,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A208,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A208,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A209,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A209,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A209,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A209,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A210,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A210,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A210,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A211,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A211,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A211,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A211,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A212,P1,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A212,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A212,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A213,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A213,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A213,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A213,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A214,P1,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A214,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A214,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A214,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A215,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A215,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A215,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A215,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A216,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A216,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A216,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A216,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A217,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A217,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A217,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A217,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A301,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A301,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A301,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A301,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A302,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A302,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A302,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A303,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A303,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A303,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A304,P1,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A304,P1,0.0,20
+MLP-AE,42,loop,KernelSHAP,A304,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A304,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A305,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A305,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A305,P1-LC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+MLP-AE,42,process,KernelSHAP,A306,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A306,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A306,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A307,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A307,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A307,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A307,P4-HIL,0.0,20
+MLP-AE,42,process,KernelSHAP,A308,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A308,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A308,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A309,P2,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A309,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A309,P2-SC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A309,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A310,P3,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A310,P4,0.0,20
+MLP-AE,42,loop,KernelSHAP,A310,P3-LC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A310,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A401,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A401,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A401,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A402,P2,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A402,P4,0.0,20
+MLP-AE,42,loop,KernelSHAP,A402,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A402,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A403,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A403,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A403,P2-TR,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+MLP-AE,42,process,KernelSHAP,A404,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A404,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A404,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A405,P4,0.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A405,P4,0.0,20
+MLP-AE,42,loop,KernelSHAP,A405,P4-HIL,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A405,P4-HIL,0.0,20
+MLP-AE,42,process,KernelSHAP,A406,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A406,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A406,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A406,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A407,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A407,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A407,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A407,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A408,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A408,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A408,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A409,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A409,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A409,P1-LC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+MLP-AE,42,process,KernelSHAP,A410,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A410,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A410,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A411,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A411,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A411,P2-TR,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+MLP-AE,42,process,KernelSHAP,A412,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A412,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A412,P1-TC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A412,P1-TC,1.0,20
+MLP-AE,42,process,KernelSHAP,A413,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A413,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A413,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A414,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A414,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A414,P2-TR,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+MLP-AE,42,process,KernelSHAP,A415,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A415,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A415,P2-TR,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+MLP-AE,42,process,KernelSHAP,A416,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A416,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A416,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A416,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A417,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A417,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A417,P1-CC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A417,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A418,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A418,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A418,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A419,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A419,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A419,P1-PC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A419,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A420,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A420,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A420,P4-HIL,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A420,P1-PC,1.0,20
+MLP-AE,42,process,KernelSHAP,A421,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A421,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A421,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A421,P1-other,0.0,20
+MLP-AE,42,process,KernelSHAP,A422,P2,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A422,P2,1.0,20
+MLP-AE,42,loop,KernelSHAP,A422,P2-SC,1.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+MLP-AE,42,process,KernelSHAP,A423,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A423,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A423,P1-PC,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+MLP-AE,42,process,KernelSHAP,A424,P1,1.0,20
+MLP-AE,42,process,GroupShapley (same seconds),A424,P1,1.0,20
+MLP-AE,42,loop,KernelSHAP,A424,P1-other,0.0,20
+MLP-AE,42,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+MLP-AE,123,process,KernelSHAP,A101,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A101,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A101,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A102,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A102,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A102,P1-LC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+MLP-AE,123,process,KernelSHAP,A103,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A103,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A103,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A104,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A104,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A104,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A105,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A105,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A105,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A106,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A106,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A106,P1-CC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+MLP-AE,123,process,KernelSHAP,A107,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A107,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A107,P1-other,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+MLP-AE,123,process,KernelSHAP,A201,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A201,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A201,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A202,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A202,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A202,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A202,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A203,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A203,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A203,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A203,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A204,P4,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A204,P4,0.0,20
+MLP-AE,123,loop,KernelSHAP,A204,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A204,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A205,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A205,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A205,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A205,P4-HIL,0.0,20
+MLP-AE,123,process,KernelSHAP,A206,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A206,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A206,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A206,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A207,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A207,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A207,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A208,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A208,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A208,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A209,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A209,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A209,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A209,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A210,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A210,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A210,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A211,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A211,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A211,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A211,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A212,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A212,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A212,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A213,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A213,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A213,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A213,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A214,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A214,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A214,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A214,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A215,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A215,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A215,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A215,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A216,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A216,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A216,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A216,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A217,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A217,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A217,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A217,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A301,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A301,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A301,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A301,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A302,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A302,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A302,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A303,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A303,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A303,P1-other,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+MLP-AE,123,process,KernelSHAP,A304,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A304,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A304,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A304,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A305,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A305,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A305,P1-LC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+MLP-AE,123,process,KernelSHAP,A306,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A306,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A306,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A307,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A307,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A307,P1-PC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A307,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A308,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A308,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A308,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A309,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A309,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A309,P1-TC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A309,P3-LC,0.0,20
+MLP-AE,123,process,KernelSHAP,A310,P1,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A310,P1,0.0,20
+MLP-AE,123,loop,KernelSHAP,A310,P3-LC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+MLP-AE,123,process,KernelSHAP,A401,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A401,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A401,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A402,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A402,P4,0.0,20
+MLP-AE,123,loop,KernelSHAP,A402,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A402,P4-HIL,0.0,20
+MLP-AE,123,process,KernelSHAP,A403,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A403,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A403,P2-TR,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+MLP-AE,123,process,KernelSHAP,A404,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A404,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A404,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A405,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A405,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A405,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A405,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A406,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A406,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A406,P1-TC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A406,P1-TC,1.0,20
+MLP-AE,123,process,KernelSHAP,A407,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A407,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A407,P1-TC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A407,P1-TC,0.0,20
+MLP-AE,123,process,KernelSHAP,A408,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A408,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A408,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A409,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A409,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A409,P1-LC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+MLP-AE,123,process,KernelSHAP,A410,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A410,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A410,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A411,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A411,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A411,P2-TR,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+MLP-AE,123,process,KernelSHAP,A412,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A412,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A412,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A412,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A413,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A413,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A413,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A414,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A414,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A414,P2-TR,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+MLP-AE,123,process,KernelSHAP,A415,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A415,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A415,P2-TR,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+MLP-AE,123,process,KernelSHAP,A416,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A416,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A416,P1-CC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A416,P1-CC,0.0,20
+MLP-AE,123,process,KernelSHAP,A417,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A417,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A417,P1-CC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A417,P1-CC,1.0,20
+MLP-AE,123,process,KernelSHAP,A418,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A418,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A418,P1-other,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+MLP-AE,123,process,KernelSHAP,A419,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A419,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A419,P1-PC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A419,P1-PC,1.0,20
+MLP-AE,123,process,KernelSHAP,A420,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A420,P1,1.0,20
+MLP-AE,123,loop,KernelSHAP,A420,P1-CC,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A420,P1-CC,0.0,20
+MLP-AE,123,process,KernelSHAP,A421,P4,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A421,P4,0.0,20
+MLP-AE,123,loop,KernelSHAP,A421,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A421,P4-HIL,0.0,20
+MLP-AE,123,process,KernelSHAP,A422,P2,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A422,P2,1.0,20
+MLP-AE,123,loop,KernelSHAP,A422,P2-SC,1.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+MLP-AE,123,process,KernelSHAP,A423,P4,0.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A423,P4,0.0,20
+MLP-AE,123,loop,KernelSHAP,A423,P4-HIL,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+MLP-AE,123,process,KernelSHAP,A424,P1,1.0,20
+MLP-AE,123,process,GroupShapley (same seconds),A424,P4,0.0,20
+MLP-AE,123,loop,KernelSHAP,A424,P1-other,0.0,20
+MLP-AE,123,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A101,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A101,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A101,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A102,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A102,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A102,P1-LC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A103,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A103,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A103,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A104,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A104,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A104,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A105,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A105,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A105,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A106,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A106,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A106,P1-other,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A107,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A107,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A107,P1-other,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A201,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A201,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A201,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A202,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A202,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A202,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A202,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A203,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A203,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A203,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A203,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A204,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A204,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A204,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A204,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A205,P4,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A205,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A205,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A205,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A206,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A206,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A206,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A206,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A207,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A207,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A207,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A208,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A208,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A208,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A209,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A209,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A209,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A209,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A210,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A210,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A210,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A211,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A211,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A211,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A211,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A212,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A212,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A212,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A213,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A213,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A213,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A213,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A214,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A214,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A214,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A214,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A215,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A215,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A215,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A215,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A216,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A216,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A216,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A216,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A217,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A217,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A217,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A217,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A301,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A301,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A301,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A301,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A302,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A302,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A302,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A303,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A303,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A303,P1-other,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A304,P1,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A304,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A304,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A304,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A305,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A305,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A305,P1-LC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A306,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A306,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A306,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A307,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A307,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A307,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A307,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A308,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A308,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A308,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A309,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A309,P3,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A309,P3-LC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A309,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A310,P3,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A310,P1,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A310,P3-LC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A401,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A401,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A401,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A402,P4,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A402,P4,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A402,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A402,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A403,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A403,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A403,P2-TR,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+MLP-AE,2026,process,KernelSHAP,A404,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A404,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A404,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A405,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A405,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A405,P1-PC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A405,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A406,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A406,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A406,P1-CC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A406,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A407,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A407,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A407,P1-TC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A407,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A408,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A408,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A408,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A409,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A409,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A409,P1-LC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A410,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A410,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A410,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A411,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A411,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A411,P2-TR,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+MLP-AE,2026,process,KernelSHAP,A412,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A412,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A412,P1-PC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A412,P1-PC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A413,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A413,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A413,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A414,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A414,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A414,P2-TR,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+MLP-AE,2026,process,KernelSHAP,A415,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A415,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A415,P2-TR,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+MLP-AE,2026,process,KernelSHAP,A416,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A416,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A416,P1-CC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A416,P1-CC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A417,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A417,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A417,P1-CC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A417,P1-CC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A418,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A418,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A418,P1-other,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A419,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A419,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A419,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A419,P1-other,0.0,20
+MLP-AE,2026,process,KernelSHAP,A420,P1,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A420,P1,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A420,P1-CC,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A420,P1-CC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A421,P4,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A421,P4,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A421,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A421,P4-HIL,0.0,20
+MLP-AE,2026,process,KernelSHAP,A422,P2,1.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A422,P2,1.0,20
+MLP-AE,2026,loop,KernelSHAP,A422,P2-SC,1.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+MLP-AE,2026,process,KernelSHAP,A423,P4,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A423,P4,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A423,P4-HIL,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+MLP-AE,2026,process,KernelSHAP,A424,P4,0.0,20
+MLP-AE,2026,process,GroupShapley (same seconds),A424,P4,0.0,20
+MLP-AE,2026,loop,KernelSHAP,A424,P1-other,0.0,20
+MLP-AE,2026,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A101,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A101,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A101,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+MLP-AE,7,process,KernelSHAP,A102,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A102,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A102,P1-LC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+MLP-AE,7,process,KernelSHAP,A103,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A103,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A103,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A104,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A104,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A104,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A105,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A105,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A105,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A106,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A106,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A106,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A107,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A107,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A107,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A201,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A201,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A201,P4-HIL,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+MLP-AE,7,process,KernelSHAP,A202,P3,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A202,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A202,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A202,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A203,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A203,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A203,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A203,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A204,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A204,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A204,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A204,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A205,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A205,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A205,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A205,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A206,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A206,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A206,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A206,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A207,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A207,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A207,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A208,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A208,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A208,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A209,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A209,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A209,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A209,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A210,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A210,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A210,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A211,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A211,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A211,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A211,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A212,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A212,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A212,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A213,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A213,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A213,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A213,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A214,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A214,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A214,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A214,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A215,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A215,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A215,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A215,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A216,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A216,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A216,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A216,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A217,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A217,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A217,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A217,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A301,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A301,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A301,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A301,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A302,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A302,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A302,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A303,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A303,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A303,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A304,P1,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A304,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A304,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A304,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A305,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A305,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A305,P1-LC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+MLP-AE,7,process,KernelSHAP,A306,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A306,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A306,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+MLP-AE,7,process,KernelSHAP,A307,P2,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A307,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A307,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A307,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A308,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A308,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A308,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+MLP-AE,7,process,KernelSHAP,A309,P3,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A309,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A309,P3-LC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A309,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A310,P3,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A310,P1,0.0,20
+MLP-AE,7,loop,KernelSHAP,A310,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A310,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A401,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A401,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A401,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A402,P4,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A402,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A402,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A402,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A403,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A403,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A403,P2-TR,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+MLP-AE,7,process,KernelSHAP,A404,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A404,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A404,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A405,P3,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A405,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A405,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A405,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A406,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A406,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A406,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A406,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A407,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A407,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A407,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A407,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A408,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A408,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A408,P1-PC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+MLP-AE,7,process,KernelSHAP,A409,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A409,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A409,P1-LC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+MLP-AE,7,process,KernelSHAP,A410,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A410,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A410,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A411,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A411,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A411,P2-TR,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+MLP-AE,7,process,KernelSHAP,A412,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A412,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A412,P4-HIL,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A412,P1-TC,1.0,20
+MLP-AE,7,process,KernelSHAP,A413,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A413,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A413,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A414,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A414,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A414,P2-TR,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+MLP-AE,7,process,KernelSHAP,A415,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A415,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A415,P2-TR,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+MLP-AE,7,process,KernelSHAP,A416,P2,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A416,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A416,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A416,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A417,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A417,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A417,P1-PC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A417,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A418,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A418,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A418,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A419,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A419,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A419,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A419,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A420,P1,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A420,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A420,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A420,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A421,P3,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A421,P4,0.0,20
+MLP-AE,7,loop,KernelSHAP,A421,P3-LC,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A421,P1-other,0.0,20
+MLP-AE,7,process,KernelSHAP,A422,P2,1.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A422,P2,1.0,20
+MLP-AE,7,loop,KernelSHAP,A422,P2-SC,1.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+MLP-AE,7,process,KernelSHAP,A423,P4,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A423,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A423,P4-HIL,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+MLP-AE,7,process,KernelSHAP,A424,P4,0.0,20
+MLP-AE,7,process,GroupShapley (same seconds),A424,P1,1.0,20
+MLP-AE,7,loop,KernelSHAP,A424,P1-other,0.0,20
+MLP-AE,7,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A101,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A101,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A101,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A102,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A102,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A102,P1-LC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+MLP-AE,99,process,KernelSHAP,A103,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A103,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A103,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A104,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A104,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A104,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A105,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A105,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A105,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A106,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A106,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A106,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A106,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A107,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A107,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A107,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A201,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A201,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A201,P4-HIL,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A202,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A202,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A202,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A202,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A203,P3,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A203,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A203,P3-LC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A203,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A204,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A204,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A204,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A204,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A205,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A205,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A205,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A205,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A206,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A206,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A206,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A206,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A207,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A207,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A207,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A208,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A208,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A208,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A209,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A209,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A209,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A209,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A210,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A210,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A210,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A210,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A211,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A211,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A211,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A211,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A212,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A212,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A212,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A212,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A213,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A213,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A213,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A213,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A214,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A214,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A214,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A214,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A215,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A215,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A215,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A215,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A216,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A216,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A216,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A216,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A217,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A217,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A217,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A217,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A301,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A301,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A301,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A301,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A302,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A302,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A302,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A303,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A303,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A303,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A304,P1,0.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A304,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A304,P1-PC,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A304,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A305,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A305,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A305,P1-LC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+MLP-AE,99,process,KernelSHAP,A306,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A306,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A306,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A307,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A307,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A307,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A307,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A308,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A308,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A308,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A309,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A309,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A309,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A309,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A310,P3,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A310,P1,0.0,20
+MLP-AE,99,loop,KernelSHAP,A310,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A310,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A401,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A401,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A401,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A402,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A402,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A402,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A402,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A403,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A403,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A403,P2-TR,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+MLP-AE,99,process,KernelSHAP,A404,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A404,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A404,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A405,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A405,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A405,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A405,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A406,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A406,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A406,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A406,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A407,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A407,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A407,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A407,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A408,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A408,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A408,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A409,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A409,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A409,P1-LC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+MLP-AE,99,process,KernelSHAP,A410,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A410,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A410,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A411,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A411,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A411,P2-TR,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+MLP-AE,99,process,KernelSHAP,A412,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A412,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A412,P1-PC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A412,P1-PC,1.0,20
+MLP-AE,99,process,KernelSHAP,A413,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A413,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A413,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A414,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A414,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A414,P2-TR,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+MLP-AE,99,process,KernelSHAP,A415,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A415,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A415,P2-TR,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+MLP-AE,99,process,KernelSHAP,A416,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A416,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A416,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A416,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A417,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A417,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A417,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A417,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A418,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A418,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A418,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A419,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A419,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A419,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A419,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A420,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A420,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A420,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A420,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A421,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A421,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A421,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A421,P1-other,0.0,20
+MLP-AE,99,process,KernelSHAP,A422,P2,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A422,P2,1.0,20
+MLP-AE,99,loop,KernelSHAP,A422,P2-SC,1.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+MLP-AE,99,process,KernelSHAP,A423,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A423,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A423,P4-HIL,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+MLP-AE,99,process,KernelSHAP,A424,P1,1.0,20
+MLP-AE,99,process,GroupShapley (same seconds),A424,P1,1.0,20
+MLP-AE,99,loop,KernelSHAP,A424,P1-other,0.0,20
+MLP-AE,99,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+Z-max,42,process,KernelSHAP,A101,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A101,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A101,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A102,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A102,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A102,P1-LC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+Z-max,42,process,KernelSHAP,A103,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A103,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A103,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A103,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A104,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A104,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A104,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A104,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A105,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A105,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A105,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A105,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A106,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A106,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A106,P1-TC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A106,P1-CC,1.0,20
+Z-max,42,process,KernelSHAP,A107,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A107,P3,0.0,20
+Z-max,42,loop,KernelSHAP,A107,P3-LC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A107,P3-LC,0.0,20
+Z-max,42,process,KernelSHAP,A201,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A201,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A201,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A201,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A202,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A202,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A202,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A202,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A203,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A203,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A203,P1-TC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A203,P1-TC,0.0,20
+Z-max,42,process,KernelSHAP,A204,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A204,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A204,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A204,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A205,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A205,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A205,P1-other,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A205,P1-other,0.0,20
+Z-max,42,process,KernelSHAP,A206,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A206,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A206,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A206,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A207,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A207,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A207,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A207,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A208,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A208,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A208,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A208,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A209,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A209,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A209,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A209,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A210,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A210,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A210,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A210,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A211,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A211,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A211,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A211,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A212,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A212,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A212,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A212,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A213,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A213,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A213,P1-CC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A213,P1-CC,1.0,20
+Z-max,42,process,KernelSHAP,A214,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A214,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A214,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A214,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A215,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A215,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A215,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A215,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A216,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A216,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A216,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A216,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A217,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A217,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A217,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A217,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A301,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A301,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A301,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A301,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A302,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A302,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A302,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A303,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A303,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A303,P1-other,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+Z-max,42,process,KernelSHAP,A304,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A304,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A304,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A304,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A305,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A305,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A305,P1-LC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+Z-max,42,process,KernelSHAP,A306,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A306,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A306,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A307,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A307,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A307,P1-LC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A307,P4-HIL,0.0,20
+Z-max,42,process,KernelSHAP,A308,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A308,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A308,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A308,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A309,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A309,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A309,P1-TC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A309,P1-TC,1.0,20
+Z-max,42,process,KernelSHAP,A310,P1,0.0,20
+Z-max,42,process,GroupShapley (same seconds),A310,P1,0.0,20
+Z-max,42,loop,KernelSHAP,A310,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A310,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A401,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A401,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A401,P2-SC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+Z-max,42,process,KernelSHAP,A402,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A402,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A402,P1-TC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A402,P1-other,0.0,20
+Z-max,42,process,KernelSHAP,A403,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A403,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A403,P2-TR,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+Z-max,42,process,KernelSHAP,A404,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A404,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A404,P2-SC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+Z-max,42,process,KernelSHAP,A405,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A405,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A405,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A405,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A406,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A406,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A406,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A406,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A407,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A407,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A407,P1-TC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A407,P1-TC,0.0,20
+Z-max,42,process,KernelSHAP,A408,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A408,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A408,P1-PC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+Z-max,42,process,KernelSHAP,A409,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A409,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A409,P1-LC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A409,P1-LC,1.0,20
+Z-max,42,process,KernelSHAP,A410,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A410,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A410,P2-SC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+Z-max,42,process,KernelSHAP,A411,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A411,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A411,P2-TR,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+Z-max,42,process,KernelSHAP,A412,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A412,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A412,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A412,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A413,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A413,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A413,P2-SC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+Z-max,42,process,KernelSHAP,A414,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A414,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A414,P2-TR,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+Z-max,42,process,KernelSHAP,A415,P2,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A415,P2,1.0,20
+Z-max,42,loop,KernelSHAP,A415,P2-TR,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+Z-max,42,process,KernelSHAP,A416,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A416,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A416,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A416,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A417,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A417,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A417,P1-CC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A417,P1-CC,1.0,20
+Z-max,42,process,KernelSHAP,A418,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A418,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A418,P1-other,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+Z-max,42,process,KernelSHAP,A419,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A419,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A419,P1-TC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A419,P1-TC,0.0,20
+Z-max,42,process,KernelSHAP,A420,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A420,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A420,P1-CC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A420,P1-CC,0.0,20
+Z-max,42,process,KernelSHAP,A421,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A421,P3,0.0,20
+Z-max,42,loop,KernelSHAP,A421,P3-LC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A421,P3-LC,0.0,20
+Z-max,42,process,KernelSHAP,A422,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A422,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A422,P2-SC,1.0,20
+Z-max,42,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+Z-max,42,process,KernelSHAP,A423,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A423,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A423,P1-PC,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A423,P1-PC,0.0,20
+Z-max,42,process,KernelSHAP,A424,P1,1.0,20
+Z-max,42,process,GroupShapley (same seconds),A424,P1,1.0,20
+Z-max,42,loop,KernelSHAP,A424,P1-other,0.0,20
+Z-max,42,loop,GroupShapley (same seconds),A424,P1-other,0.0,20
+USAD,42,process,KernelSHAP,A101,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A101,P2,0.0,20
+USAD,42,loop,KernelSHAP,A101,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A101,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A102,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A102,P2,0.0,20
+USAD,42,loop,KernelSHAP,A102,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A102,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A103,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A103,P2,0.0,20
+USAD,42,loop,KernelSHAP,A103,P1-LC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A103,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A104,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A104,P4,0.0,20
+USAD,42,loop,KernelSHAP,A104,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A104,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A105,P1,1.0,20
+USAD,42,process,GroupShapley (same seconds),A105,P1,1.0,20
+USAD,42,loop,KernelSHAP,A105,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A105,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A106,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A106,P4,0.0,20
+USAD,42,loop,KernelSHAP,A106,P1-CC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A106,P1-CC,1.0,20
+USAD,42,process,KernelSHAP,A107,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A107,P4,0.0,20
+USAD,42,loop,KernelSHAP,A107,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A107,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A201,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A201,P4,0.0,20
+USAD,42,loop,KernelSHAP,A201,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A201,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A202,P3,0.0,20
+USAD,42,process,GroupShapley (same seconds),A202,P3,0.0,20
+USAD,42,loop,KernelSHAP,A202,P3-LC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A202,P3-LC,0.0,20
+USAD,42,process,KernelSHAP,A203,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A203,P4,0.0,20
+USAD,42,loop,KernelSHAP,A203,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A203,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A204,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A204,P2,1.0,20
+USAD,42,loop,KernelSHAP,A204,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A204,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A205,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A205,P4,0.0,20
+USAD,42,loop,KernelSHAP,A205,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A205,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A206,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A206,P2,1.0,20
+USAD,42,loop,KernelSHAP,A206,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A206,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A207,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A207,P4,0.0,20
+USAD,42,loop,KernelSHAP,A207,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A207,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A208,P1,0.0,20
+USAD,42,process,GroupShapley (same seconds),A208,P1,0.0,20
+USAD,42,loop,KernelSHAP,A208,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A208,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A209,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A209,P4,0.0,20
+USAD,42,loop,KernelSHAP,A209,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A209,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A210,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A210,P4,0.0,20
+USAD,42,loop,KernelSHAP,A210,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A210,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A211,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A211,P2,0.0,20
+USAD,42,loop,KernelSHAP,A211,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A211,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A212,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A212,P2,0.0,20
+USAD,42,loop,KernelSHAP,A212,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A212,P3-LC,1.0,20
+USAD,42,process,KernelSHAP,A213,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A213,P2,0.0,20
+USAD,42,loop,KernelSHAP,A213,P1-CC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A213,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A214,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A214,P2,0.0,20
+USAD,42,loop,KernelSHAP,A214,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A214,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A215,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A215,P4,0.0,20
+USAD,42,loop,KernelSHAP,A215,P1-FC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A215,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A216,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A216,P2,0.0,20
+USAD,42,loop,KernelSHAP,A216,P1-FC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A216,P1-FC,1.0,20
+USAD,42,process,KernelSHAP,A217,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A217,P2,0.0,20
+USAD,42,loop,KernelSHAP,A217,P1-FC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A217,P1-FC,1.0,20
+USAD,42,process,KernelSHAP,A301,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A301,P3,1.0,20
+USAD,42,loop,KernelSHAP,A301,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A301,P3-LC,1.0,20
+USAD,42,process,KernelSHAP,A302,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A302,P2,0.0,20
+USAD,42,loop,KernelSHAP,A302,P1-PC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+USAD,42,process,KernelSHAP,A303,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A303,P2,0.0,20
+USAD,42,loop,KernelSHAP,A303,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A303,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A304,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A304,P3,1.0,20
+USAD,42,loop,KernelSHAP,A304,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A304,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A305,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A305,P2,0.0,20
+USAD,42,loop,KernelSHAP,A305,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+USAD,42,process,KernelSHAP,A306,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A306,P4,0.0,20
+USAD,42,loop,KernelSHAP,A306,P1-PC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+USAD,42,process,KernelSHAP,A307,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A307,P2,0.0,20
+USAD,42,loop,KernelSHAP,A307,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A307,P2-TR,0.0,20
+USAD,42,process,KernelSHAP,A308,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A308,P4,0.0,20
+USAD,42,loop,KernelSHAP,A308,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A308,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A309,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A309,P2,0.0,20
+USAD,42,loop,KernelSHAP,A309,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A309,P1-FC,1.0,20
+USAD,42,process,KernelSHAP,A310,P3,1.0,20
+USAD,42,process,GroupShapley (same seconds),A310,P3,1.0,20
+USAD,42,loop,KernelSHAP,A310,P3-LC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+USAD,42,process,KernelSHAP,A401,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A401,P2,1.0,20
+USAD,42,loop,KernelSHAP,A401,P2-SC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+USAD,42,process,KernelSHAP,A402,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A402,P2,0.0,20
+USAD,42,loop,KernelSHAP,A402,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A402,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A403,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A403,P2,1.0,20
+USAD,42,loop,KernelSHAP,A403,P2-TR,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+USAD,42,process,KernelSHAP,A404,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A404,P4,0.0,20
+USAD,42,loop,KernelSHAP,A404,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A404,P1-LC,0.0,20
+USAD,42,process,KernelSHAP,A405,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A405,P4,0.0,20
+USAD,42,loop,KernelSHAP,A405,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A405,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A406,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A406,P4,0.0,20
+USAD,42,loop,KernelSHAP,A406,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A406,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A407,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A407,P4,0.0,20
+USAD,42,loop,KernelSHAP,A407,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A407,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A408,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A408,P4,0.0,20
+USAD,42,loop,KernelSHAP,A408,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A408,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A409,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A409,P2,0.0,20
+USAD,42,loop,KernelSHAP,A409,P1-FC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A409,P1-FC,0.0,20
+USAD,42,process,KernelSHAP,A410,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A410,P2,1.0,20
+USAD,42,loop,KernelSHAP,A410,P2-SC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+USAD,42,process,KernelSHAP,A411,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A411,P2,1.0,20
+USAD,42,loop,KernelSHAP,A411,P2-TR,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+USAD,42,process,KernelSHAP,A412,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A412,P4,0.0,20
+USAD,42,loop,KernelSHAP,A412,P1-CC,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A412,P1-CC,0.0,20
+USAD,42,process,KernelSHAP,A413,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A413,P2,1.0,20
+USAD,42,loop,KernelSHAP,A413,P2-SC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+USAD,42,process,KernelSHAP,A414,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A414,P2,1.0,20
+USAD,42,loop,KernelSHAP,A414,P2-TR,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+USAD,42,process,KernelSHAP,A415,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A415,P2,1.0,20
+USAD,42,loop,KernelSHAP,A415,P2-TR,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+USAD,42,process,KernelSHAP,A416,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A416,P2,0.0,20
+USAD,42,loop,KernelSHAP,A416,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A416,P2-TR,0.0,20
+USAD,42,process,KernelSHAP,A417,P2,0.0,20
+USAD,42,process,GroupShapley (same seconds),A417,P2,0.0,20
+USAD,42,loop,KernelSHAP,A417,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A417,P2-TR,0.0,20
+USAD,42,process,KernelSHAP,A418,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A418,P4,0.0,20
+USAD,42,loop,KernelSHAP,A418,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A418,P1-LC,1.0,20
+USAD,42,process,KernelSHAP,A419,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A419,P4,0.0,20
+USAD,42,loop,KernelSHAP,A419,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A419,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A420,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A420,P2,0.0,20
+USAD,42,loop,KernelSHAP,A420,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A420,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A421,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A421,P4,0.0,20
+USAD,42,loop,KernelSHAP,A421,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A421,P4-HIL,0.0,20
+USAD,42,process,KernelSHAP,A422,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A422,P2,1.0,20
+USAD,42,loop,KernelSHAP,A422,P2-SC,1.0,20
+USAD,42,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+USAD,42,process,KernelSHAP,A423,P2,1.0,20
+USAD,42,process,GroupShapley (same seconds),A423,P2,1.0,20
+USAD,42,loop,KernelSHAP,A423,P2-TR,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A423,P2-TR,0.0,20
+USAD,42,process,KernelSHAP,A424,P4,0.0,20
+USAD,42,process,GroupShapley (same seconds),A424,P4,0.0,20
+USAD,42,loop,KernelSHAP,A424,P4-HIL,0.0,20
+USAD,42,loop,GroupShapley (same seconds),A424,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A101,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A101,P2,0.0,20
+USAD,123,loop,KernelSHAP,A101,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A101,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A102,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A102,P2,0.0,20
+USAD,123,loop,KernelSHAP,A102,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A102,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A103,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A103,P4,0.0,20
+USAD,123,loop,KernelSHAP,A103,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A103,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A104,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A104,P4,0.0,20
+USAD,123,loop,KernelSHAP,A104,P4-HIL,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A104,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A105,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A105,P4,0.0,20
+USAD,123,loop,KernelSHAP,A105,P1-LC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A105,P1-LC,1.0,20
+USAD,123,process,KernelSHAP,A106,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A106,P4,0.0,20
+USAD,123,loop,KernelSHAP,A106,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A106,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A107,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A107,P2,0.0,20
+USAD,123,loop,KernelSHAP,A107,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A107,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A201,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A201,P2,0.0,20
+USAD,123,loop,KernelSHAP,A201,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A201,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A202,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A202,P4,0.0,20
+USAD,123,loop,KernelSHAP,A202,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A202,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A203,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A203,P2,1.0,20
+USAD,123,loop,KernelSHAP,A203,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A203,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A204,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A204,P2,1.0,20
+USAD,123,loop,KernelSHAP,A204,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A204,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A205,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A205,P2,0.0,20
+USAD,123,loop,KernelSHAP,A205,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A205,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A206,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A206,P2,1.0,20
+USAD,123,loop,KernelSHAP,A206,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A206,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A207,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A207,P2,0.0,20
+USAD,123,loop,KernelSHAP,A207,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A207,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A208,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A208,P2,1.0,20
+USAD,123,loop,KernelSHAP,A208,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A208,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A209,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A209,P2,0.0,20
+USAD,123,loop,KernelSHAP,A209,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A209,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A210,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A210,P2,1.0,20
+USAD,123,loop,KernelSHAP,A210,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A210,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A211,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A211,P2,0.0,20
+USAD,123,loop,KernelSHAP,A211,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A211,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A212,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A212,P2,0.0,20
+USAD,123,loop,KernelSHAP,A212,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A212,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A213,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A213,P2,0.0,20
+USAD,123,loop,KernelSHAP,A213,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A213,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A214,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A214,P2,0.0,20
+USAD,123,loop,KernelSHAP,A214,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A214,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A215,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A215,P2,0.0,20
+USAD,123,loop,KernelSHAP,A215,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A215,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A216,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A216,P3,0.0,20
+USAD,123,loop,KernelSHAP,A216,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A216,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A217,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A217,P2,0.0,20
+USAD,123,loop,KernelSHAP,A217,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A217,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A301,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A301,P2,0.0,20
+USAD,123,loop,KernelSHAP,A301,P1-PC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A301,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A302,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A302,P4,0.0,20
+USAD,123,loop,KernelSHAP,A302,P1-LC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A302,P1-LC,1.0,20
+USAD,123,process,KernelSHAP,A303,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A303,P2,0.0,20
+USAD,123,loop,KernelSHAP,A303,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A303,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A304,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A304,P2,0.0,20
+USAD,123,loop,KernelSHAP,A304,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A304,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A305,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A305,P2,0.0,20
+USAD,123,loop,KernelSHAP,A305,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A305,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A306,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A306,P4,0.0,20
+USAD,123,loop,KernelSHAP,A306,P1-LC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A306,P1-LC,1.0,20
+USAD,123,process,KernelSHAP,A307,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A307,P4,0.0,20
+USAD,123,loop,KernelSHAP,A307,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A307,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A308,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A308,P4,0.0,20
+USAD,123,loop,KernelSHAP,A308,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A308,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A309,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A309,P4,0.0,20
+USAD,123,loop,KernelSHAP,A309,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A309,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A310,P3,1.0,20
+USAD,123,process,GroupShapley (same seconds),A310,P3,1.0,20
+USAD,123,loop,KernelSHAP,A310,P3-LC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+USAD,123,process,KernelSHAP,A401,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A401,P2,1.0,20
+USAD,123,loop,KernelSHAP,A401,P2-SC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+USAD,123,process,KernelSHAP,A402,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A402,P4,0.0,20
+USAD,123,loop,KernelSHAP,A402,P1-FC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A402,P1-FC,0.0,20
+USAD,123,process,KernelSHAP,A403,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A403,P2,1.0,20
+USAD,123,loop,KernelSHAP,A403,P2-TR,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+USAD,123,process,KernelSHAP,A404,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A404,P2,1.0,20
+USAD,123,loop,KernelSHAP,A404,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A404,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A405,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A405,P4,0.0,20
+USAD,123,loop,KernelSHAP,A405,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A405,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A406,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A406,P4,0.0,20
+USAD,123,loop,KernelSHAP,A406,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A406,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A407,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A407,P2,0.0,20
+USAD,123,loop,KernelSHAP,A407,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A407,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A408,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A408,P2,0.0,20
+USAD,123,loop,KernelSHAP,A408,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A408,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A409,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A409,P2,0.0,20
+USAD,123,loop,KernelSHAP,A409,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A409,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A410,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A410,P2,1.0,20
+USAD,123,loop,KernelSHAP,A410,P2-SC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+USAD,123,process,KernelSHAP,A411,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A411,P2,1.0,20
+USAD,123,loop,KernelSHAP,A411,P2-TR,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+USAD,123,process,KernelSHAP,A412,P2,0.0,20
+USAD,123,process,GroupShapley (same seconds),A412,P2,0.0,20
+USAD,123,loop,KernelSHAP,A412,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A412,P2-TR,0.0,20
+USAD,123,process,KernelSHAP,A413,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A413,P2,1.0,20
+USAD,123,loop,KernelSHAP,A413,P2-SC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+USAD,123,process,KernelSHAP,A414,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A414,P2,1.0,20
+USAD,123,loop,KernelSHAP,A414,P2-TR,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+USAD,123,process,KernelSHAP,A415,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A415,P2,1.0,20
+USAD,123,loop,KernelSHAP,A415,P2-TR,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+USAD,123,process,KernelSHAP,A416,P3,0.0,20
+USAD,123,process,GroupShapley (same seconds),A416,P4,0.0,20
+USAD,123,loop,KernelSHAP,A416,P3-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A416,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A417,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A417,P4,0.0,20
+USAD,123,loop,KernelSHAP,A417,P2-TR,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A417,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A418,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A418,P4,0.0,20
+USAD,123,loop,KernelSHAP,A418,P4-HIL,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A418,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A419,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A419,P4,0.0,20
+USAD,123,loop,KernelSHAP,A419,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A419,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A420,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A420,P4,0.0,20
+USAD,123,loop,KernelSHAP,A420,P1-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A420,P1-LC,0.0,20
+USAD,123,process,KernelSHAP,A421,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A421,P4,0.0,20
+USAD,123,loop,KernelSHAP,A421,P1-PC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A421,P4-HIL,0.0,20
+USAD,123,process,KernelSHAP,A422,P2,1.0,20
+USAD,123,process,GroupShapley (same seconds),A422,P2,1.0,20
+USAD,123,loop,KernelSHAP,A422,P2-SC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+USAD,123,process,KernelSHAP,A423,P3,0.0,20
+USAD,123,process,GroupShapley (same seconds),A423,P3,0.0,20
+USAD,123,loop,KernelSHAP,A423,P3-LC,0.0,20
+USAD,123,loop,GroupShapley (same seconds),A423,P3-LC,0.0,20
+USAD,123,process,KernelSHAP,A424,P4,0.0,20
+USAD,123,process,GroupShapley (same seconds),A424,P4,0.0,20
+USAD,123,loop,KernelSHAP,A424,P1-FC,1.0,20
+USAD,123,loop,GroupShapley (same seconds),A424,P4-HIL,0.0,20
+USAD,2026,process,KernelSHAP,A101,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A101,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A101,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A101,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A102,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A102,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A102,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A102,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A103,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A103,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A103,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A103,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A104,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A104,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A104,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A104,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A105,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A105,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A105,P1-CC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A105,P1-CC,0.0,20
+USAD,2026,process,KernelSHAP,A106,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A106,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A106,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A106,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A107,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A107,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A107,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A107,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A201,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A201,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A201,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A201,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A202,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A202,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A202,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A202,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A203,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A203,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A203,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A203,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A204,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A204,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A204,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A204,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A205,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A205,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A205,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A205,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A206,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A206,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A206,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A206,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A207,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A207,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A207,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A207,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A208,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A208,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A208,P1-CC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A208,P1-CC,0.0,20
+USAD,2026,process,KernelSHAP,A209,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A209,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A209,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A209,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A210,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A210,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A210,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A210,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A211,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A211,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A211,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A211,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A212,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A212,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A212,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A212,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A213,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A213,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A213,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A213,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A214,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A214,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A214,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A214,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A215,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A215,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A215,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A215,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A216,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A216,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A216,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A216,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A217,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A217,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A217,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A217,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A301,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A301,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A301,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A301,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A302,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A302,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A302,P1-PC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+USAD,2026,process,KernelSHAP,A303,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A303,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A303,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A303,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A304,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A304,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A304,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A304,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A305,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A305,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A305,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A305,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A306,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A306,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A306,P1-PC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+USAD,2026,process,KernelSHAP,A307,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A307,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A307,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A307,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A308,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A308,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A308,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A308,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A309,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A309,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A309,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A309,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A310,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A310,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A310,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A310,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A401,P2,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A401,P2,1.0,20
+USAD,2026,loop,KernelSHAP,A401,P2-SC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+USAD,2026,process,KernelSHAP,A402,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A402,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A402,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A402,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A403,P2,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A403,P2,1.0,20
+USAD,2026,loop,KernelSHAP,A403,P2-TR,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+USAD,2026,process,KernelSHAP,A404,P1,0.0,20
+USAD,2026,process,GroupShapley (same seconds),A404,P1,0.0,20
+USAD,2026,loop,KernelSHAP,A404,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A404,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A405,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A405,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A405,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A405,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A406,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A406,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A406,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A406,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A407,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A407,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A407,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A407,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A408,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A408,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A408,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A408,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A409,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A409,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A409,P1-TC,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A409,P1-TC,1.0,20
+USAD,2026,process,KernelSHAP,A410,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A410,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A410,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A410,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A411,P2,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A411,P2,1.0,20
+USAD,2026,loop,KernelSHAP,A411,P2-TR,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+USAD,2026,process,KernelSHAP,A412,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A412,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A412,P1-CC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A412,P1-CC,0.0,20
+USAD,2026,process,KernelSHAP,A413,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A413,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A413,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A413,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A414,P2,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A414,P2,1.0,20
+USAD,2026,loop,KernelSHAP,A414,P2-TR,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+USAD,2026,process,KernelSHAP,A415,P2,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A415,P2,1.0,20
+USAD,2026,loop,KernelSHAP,A415,P2-TR,1.0,20
+USAD,2026,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+USAD,2026,process,KernelSHAP,A416,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A416,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A416,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A416,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A417,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A417,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A417,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A417,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A418,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A418,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A418,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A418,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A419,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A419,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A419,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A419,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A420,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A420,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A420,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A420,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A421,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A421,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A421,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A421,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A422,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A422,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A422,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A422,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A423,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A423,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A423,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A423,P1-TC,0.0,20
+USAD,2026,process,KernelSHAP,A424,P1,1.0,20
+USAD,2026,process,GroupShapley (same seconds),A424,P1,1.0,20
+USAD,2026,loop,KernelSHAP,A424,P1-TC,0.0,20
+USAD,2026,loop,GroupShapley (same seconds),A424,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A101,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A101,P1,1.0,20
+USAD,7,loop,KernelSHAP,A101,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A101,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A102,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A102,P1,1.0,20
+USAD,7,loop,KernelSHAP,A102,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A102,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A103,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A103,P1,1.0,20
+USAD,7,loop,KernelSHAP,A103,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A103,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A104,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A104,P1,0.0,20
+USAD,7,loop,KernelSHAP,A104,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A104,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A105,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A105,P1,1.0,20
+USAD,7,loop,KernelSHAP,A105,P1-CC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A105,P1-CC,0.0,20
+USAD,7,process,KernelSHAP,A106,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A106,P1,1.0,20
+USAD,7,loop,KernelSHAP,A106,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A106,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A107,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A107,P1,1.0,20
+USAD,7,loop,KernelSHAP,A107,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A107,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A201,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A201,P1,1.0,20
+USAD,7,loop,KernelSHAP,A201,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A201,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A202,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A202,P1,1.0,20
+USAD,7,loop,KernelSHAP,A202,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A202,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A203,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A203,P1,0.0,20
+USAD,7,loop,KernelSHAP,A203,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A203,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A204,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A204,P1,1.0,20
+USAD,7,loop,KernelSHAP,A204,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A204,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A205,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A205,P1,0.0,20
+USAD,7,loop,KernelSHAP,A205,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A205,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A206,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A206,P1,1.0,20
+USAD,7,loop,KernelSHAP,A206,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A206,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A207,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A207,P1,1.0,20
+USAD,7,loop,KernelSHAP,A207,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A207,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A208,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A208,P1,0.0,20
+USAD,7,loop,KernelSHAP,A208,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A208,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A209,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A209,P1,1.0,20
+USAD,7,loop,KernelSHAP,A209,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A209,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A210,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A210,P1,0.0,20
+USAD,7,loop,KernelSHAP,A210,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A210,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A211,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A211,P1,1.0,20
+USAD,7,loop,KernelSHAP,A211,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A211,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A212,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A212,P1,0.0,20
+USAD,7,loop,KernelSHAP,A212,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A212,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A213,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A213,P1,1.0,20
+USAD,7,loop,KernelSHAP,A213,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A213,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A214,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A214,P1,0.0,20
+USAD,7,loop,KernelSHAP,A214,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A214,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A215,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A215,P1,1.0,20
+USAD,7,loop,KernelSHAP,A215,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A215,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A216,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A216,P1,1.0,20
+USAD,7,loop,KernelSHAP,A216,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A216,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A217,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A217,P1,1.0,20
+USAD,7,loop,KernelSHAP,A217,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A217,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A301,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A301,P1,1.0,20
+USAD,7,loop,KernelSHAP,A301,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A301,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A302,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A302,P1,1.0,20
+USAD,7,loop,KernelSHAP,A302,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A302,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A303,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A303,P1,1.0,20
+USAD,7,loop,KernelSHAP,A303,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A303,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A304,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A304,P1,0.0,20
+USAD,7,loop,KernelSHAP,A304,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A304,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A305,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A305,P1,1.0,20
+USAD,7,loop,KernelSHAP,A305,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A305,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A306,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A306,P1,1.0,20
+USAD,7,loop,KernelSHAP,A306,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A306,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A307,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A307,P1,1.0,20
+USAD,7,loop,KernelSHAP,A307,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A307,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A308,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A308,P1,1.0,20
+USAD,7,loop,KernelSHAP,A308,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A308,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A309,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A309,P1,1.0,20
+USAD,7,loop,KernelSHAP,A309,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A309,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A310,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A310,P1,0.0,20
+USAD,7,loop,KernelSHAP,A310,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A310,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A401,P2,1.0,20
+USAD,7,process,GroupShapley (same seconds),A401,P2,1.0,20
+USAD,7,loop,KernelSHAP,A401,P2-SC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+USAD,7,process,KernelSHAP,A402,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A402,P1,1.0,20
+USAD,7,loop,KernelSHAP,A402,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A402,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A403,P2,1.0,20
+USAD,7,process,GroupShapley (same seconds),A403,P2,1.0,20
+USAD,7,loop,KernelSHAP,A403,P2-TR,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+USAD,7,process,KernelSHAP,A404,P1,0.0,20
+USAD,7,process,GroupShapley (same seconds),A404,P1,0.0,20
+USAD,7,loop,KernelSHAP,A404,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A404,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A405,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A405,P1,1.0,20
+USAD,7,loop,KernelSHAP,A405,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A405,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A406,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A406,P1,1.0,20
+USAD,7,loop,KernelSHAP,A406,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A406,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A407,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A407,P1,1.0,20
+USAD,7,loop,KernelSHAP,A407,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A407,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A408,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A408,P1,1.0,20
+USAD,7,loop,KernelSHAP,A408,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A408,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A409,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A409,P1,1.0,20
+USAD,7,loop,KernelSHAP,A409,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A409,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A410,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A410,P1,1.0,20
+USAD,7,loop,KernelSHAP,A410,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A410,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A411,P2,1.0,20
+USAD,7,process,GroupShapley (same seconds),A411,P2,1.0,20
+USAD,7,loop,KernelSHAP,A411,P2-TR,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+USAD,7,process,KernelSHAP,A412,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A412,P1,1.0,20
+USAD,7,loop,KernelSHAP,A412,P1-TC,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A412,P1-TC,1.0,20
+USAD,7,process,KernelSHAP,A413,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A413,P1,1.0,20
+USAD,7,loop,KernelSHAP,A413,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A413,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A414,P2,1.0,20
+USAD,7,process,GroupShapley (same seconds),A414,P2,1.0,20
+USAD,7,loop,KernelSHAP,A414,P2-TR,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+USAD,7,process,KernelSHAP,A415,P2,1.0,20
+USAD,7,process,GroupShapley (same seconds),A415,P2,1.0,20
+USAD,7,loop,KernelSHAP,A415,P2-TR,1.0,20
+USAD,7,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+USAD,7,process,KernelSHAP,A416,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A416,P1,1.0,20
+USAD,7,loop,KernelSHAP,A416,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A416,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A417,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A417,P1,1.0,20
+USAD,7,loop,KernelSHAP,A417,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A417,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A418,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A418,P1,1.0,20
+USAD,7,loop,KernelSHAP,A418,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A418,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A419,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A419,P1,1.0,20
+USAD,7,loop,KernelSHAP,A419,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A419,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A420,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A420,P1,1.0,20
+USAD,7,loop,KernelSHAP,A420,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A420,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A421,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A421,P1,1.0,20
+USAD,7,loop,KernelSHAP,A421,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A421,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A422,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A422,P1,1.0,20
+USAD,7,loop,KernelSHAP,A422,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A422,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A423,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A423,P1,1.0,20
+USAD,7,loop,KernelSHAP,A423,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A423,P1-TC,0.0,20
+USAD,7,process,KernelSHAP,A424,P1,1.0,20
+USAD,7,process,GroupShapley (same seconds),A424,P1,1.0,20
+USAD,7,loop,KernelSHAP,A424,P1-TC,0.0,20
+USAD,7,loop,GroupShapley (same seconds),A424,P1-TC,0.0,20
+USAD,99,process,KernelSHAP,A101,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A101,P3,0.0,20
+USAD,99,loop,KernelSHAP,A101,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A101,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A102,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A102,P3,0.0,20
+USAD,99,loop,KernelSHAP,A102,P1-LC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A102,P1-LC,1.0,20
+USAD,99,process,KernelSHAP,A103,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A103,P3,0.0,20
+USAD,99,loop,KernelSHAP,A103,P1-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A103,P1-LC,0.0,20
+USAD,99,process,KernelSHAP,A104,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A104,P4,0.0,20
+USAD,99,loop,KernelSHAP,A104,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A104,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A105,P1,1.0,20
+USAD,99,process,GroupShapley (same seconds),A105,P1,1.0,20
+USAD,99,loop,KernelSHAP,A105,P1-LC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A105,P1-LC,1.0,20
+USAD,99,process,KernelSHAP,A106,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A106,P4,0.0,20
+USAD,99,loop,KernelSHAP,A106,P1-CC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A106,P1-CC,1.0,20
+USAD,99,process,KernelSHAP,A107,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A107,P3,0.0,20
+USAD,99,loop,KernelSHAP,A107,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A107,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A201,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A201,P4,0.0,20
+USAD,99,loop,KernelSHAP,A201,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A201,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A202,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A202,P3,0.0,20
+USAD,99,loop,KernelSHAP,A202,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A202,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A203,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A203,P3,0.0,20
+USAD,99,loop,KernelSHAP,A203,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A203,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A204,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A204,P2,1.0,20
+USAD,99,loop,KernelSHAP,A204,P1-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A204,P1-LC,0.0,20
+USAD,99,process,KernelSHAP,A205,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A205,P4,0.0,20
+USAD,99,loop,KernelSHAP,A205,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A205,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A206,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A206,P2,1.0,20
+USAD,99,loop,KernelSHAP,A206,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A206,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A207,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A207,P4,0.0,20
+USAD,99,loop,KernelSHAP,A207,P1-FC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A207,P1-FC,0.0,20
+USAD,99,process,KernelSHAP,A208,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A208,P4,0.0,20
+USAD,99,loop,KernelSHAP,A208,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A208,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A209,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A209,P4,0.0,20
+USAD,99,loop,KernelSHAP,A209,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A209,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A210,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A210,P4,0.0,20
+USAD,99,loop,KernelSHAP,A210,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A210,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A211,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A211,P2,0.0,20
+USAD,99,loop,KernelSHAP,A211,P1-FC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A211,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A212,P3,1.0,20
+USAD,99,process,GroupShapley (same seconds),A212,P3,1.0,20
+USAD,99,loop,KernelSHAP,A212,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A212,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A213,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A213,P4,0.0,20
+USAD,99,loop,KernelSHAP,A213,P1-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A213,P1-LC,0.0,20
+USAD,99,process,KernelSHAP,A214,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A214,P4,0.0,20
+USAD,99,loop,KernelSHAP,A214,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A214,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A215,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A215,P3,0.0,20
+USAD,99,loop,KernelSHAP,A215,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A215,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A216,P2,0.0,20
+USAD,99,process,GroupShapley (same seconds),A216,P2,0.0,20
+USAD,99,loop,KernelSHAP,A216,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A216,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A217,P2,0.0,20
+USAD,99,process,GroupShapley (same seconds),A217,P2,0.0,20
+USAD,99,loop,KernelSHAP,A217,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A217,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A301,P3,1.0,20
+USAD,99,process,GroupShapley (same seconds),A301,P3,1.0,20
+USAD,99,loop,KernelSHAP,A301,P3-LC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A301,P3-LC,1.0,20
+USAD,99,process,KernelSHAP,A302,P1,1.0,20
+USAD,99,process,GroupShapley (same seconds),A302,P1,1.0,20
+USAD,99,loop,KernelSHAP,A302,P1-PC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+USAD,99,process,KernelSHAP,A303,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A303,P4,0.0,20
+USAD,99,loop,KernelSHAP,A303,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A303,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A304,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A304,P4,0.0,20
+USAD,99,loop,KernelSHAP,A304,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A304,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A305,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A305,P4,0.0,20
+USAD,99,loop,KernelSHAP,A305,P1-LC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A305,P1-LC,1.0,20
+USAD,99,process,KernelSHAP,A306,P1,1.0,20
+USAD,99,process,GroupShapley (same seconds),A306,P1,1.0,20
+USAD,99,loop,KernelSHAP,A306,P1-PC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+USAD,99,process,KernelSHAP,A307,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A307,P4,0.0,20
+USAD,99,loop,KernelSHAP,A307,P1-CC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A307,P1-CC,0.0,20
+USAD,99,process,KernelSHAP,A308,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A308,P4,0.0,20
+USAD,99,loop,KernelSHAP,A308,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A308,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A309,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A309,P4,0.0,20
+USAD,99,loop,KernelSHAP,A309,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A309,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A310,P3,1.0,20
+USAD,99,process,GroupShapley (same seconds),A310,P3,1.0,20
+USAD,99,loop,KernelSHAP,A310,P3-LC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A310,P3-LC,1.0,20
+USAD,99,process,KernelSHAP,A401,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A401,P2,1.0,20
+USAD,99,loop,KernelSHAP,A401,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A401,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A402,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A402,P4,0.0,20
+USAD,99,loop,KernelSHAP,A402,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A402,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A403,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A403,P2,1.0,20
+USAD,99,loop,KernelSHAP,A403,P2-TR,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A403,P2-TR,1.0,20
+USAD,99,process,KernelSHAP,A404,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A404,P2,1.0,20
+USAD,99,loop,KernelSHAP,A404,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A404,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A405,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A405,P3,0.0,20
+USAD,99,loop,KernelSHAP,A405,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A405,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A406,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A406,P4,0.0,20
+USAD,99,loop,KernelSHAP,A406,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A406,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A407,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A407,P4,0.0,20
+USAD,99,loop,KernelSHAP,A407,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A407,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A408,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A408,P3,0.0,20
+USAD,99,loop,KernelSHAP,A408,P1-PC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A408,P1-PC,1.0,20
+USAD,99,process,KernelSHAP,A409,P2,0.0,20
+USAD,99,process,GroupShapley (same seconds),A409,P2,0.0,20
+USAD,99,loop,KernelSHAP,A409,P2-SC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A409,P2-SC,0.0,20
+USAD,99,process,KernelSHAP,A410,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A410,P2,1.0,20
+USAD,99,loop,KernelSHAP,A410,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A410,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A411,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A411,P2,1.0,20
+USAD,99,loop,KernelSHAP,A411,P2-TR,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A411,P2-TR,1.0,20
+USAD,99,process,KernelSHAP,A412,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A412,P3,0.0,20
+USAD,99,loop,KernelSHAP,A412,P2-other,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A412,P1-FC,0.0,20
+USAD,99,process,KernelSHAP,A413,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A413,P2,1.0,20
+USAD,99,loop,KernelSHAP,A413,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A413,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A414,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A414,P2,1.0,20
+USAD,99,loop,KernelSHAP,A414,P2-TR,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A414,P2-TR,1.0,20
+USAD,99,process,KernelSHAP,A415,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A415,P2,1.0,20
+USAD,99,loop,KernelSHAP,A415,P2-TR,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A415,P2-TR,1.0,20
+USAD,99,process,KernelSHAP,A416,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A416,P4,0.0,20
+USAD,99,loop,KernelSHAP,A416,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A416,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A417,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A417,P4,0.0,20
+USAD,99,loop,KernelSHAP,A417,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A417,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A418,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A418,P4,0.0,20
+USAD,99,loop,KernelSHAP,A418,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A418,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A419,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A419,P4,0.0,20
+USAD,99,loop,KernelSHAP,A419,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A419,P4-HIL,0.0,20
+USAD,99,process,KernelSHAP,A420,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A420,P3,0.0,20
+USAD,99,loop,KernelSHAP,A420,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A420,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A421,P3,0.0,20
+USAD,99,process,GroupShapley (same seconds),A421,P3,0.0,20
+USAD,99,loop,KernelSHAP,A421,P3-LC,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A421,P3-LC,0.0,20
+USAD,99,process,KernelSHAP,A422,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A422,P2,1.0,20
+USAD,99,loop,KernelSHAP,A422,P2-SC,1.0,20
+USAD,99,loop,GroupShapley (same seconds),A422,P2-SC,1.0,20
+USAD,99,process,KernelSHAP,A423,P2,1.0,20
+USAD,99,process,GroupShapley (same seconds),A423,P2,1.0,20
+USAD,99,loop,KernelSHAP,A423,P2-TR,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A423,P2-TR,0.0,20
+USAD,99,process,KernelSHAP,A424,P4,0.0,20
+USAD,99,process,GroupShapley (same seconds),A424,P3,0.0,20
+USAD,99,loop,KernelSHAP,A424,P4-HIL,0.0,20
+USAD,99,loop,GroupShapley (same seconds),A424,P3-LC,0.0,20
+IForest,42,process,KernelSHAP,A101,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A101,P1,1.0,20
+IForest,42,loop,KernelSHAP,A101,P1-PC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A101,P1-PC,1.0,20
+IForest,42,process,KernelSHAP,A102,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A102,P1,1.0,20
+IForest,42,loop,KernelSHAP,A102,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A102,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A103,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A103,P1,1.0,20
+IForest,42,loop,KernelSHAP,A103,P4-HIL,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A103,P4-HIL,0.0,20
+IForest,42,process,KernelSHAP,A104,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A104,P1,0.0,20
+IForest,42,loop,KernelSHAP,A104,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A104,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A105,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A105,P1,1.0,20
+IForest,42,loop,KernelSHAP,A105,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A105,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A106,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A106,P1,1.0,20
+IForest,42,loop,KernelSHAP,A106,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A106,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A107,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A107,P1,1.0,20
+IForest,42,loop,KernelSHAP,A107,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A107,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A201,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A201,P1,1.0,20
+IForest,42,loop,KernelSHAP,A201,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A201,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A202,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A202,P1,1.0,20
+IForest,42,loop,KernelSHAP,A202,P1-PC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A202,P1-PC,0.0,20
+IForest,42,process,KernelSHAP,A203,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A203,P1,0.0,20
+IForest,42,loop,KernelSHAP,A203,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A203,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A204,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A204,P1,1.0,20
+IForest,42,loop,KernelSHAP,A204,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A204,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A205,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A205,P1,0.0,20
+IForest,42,loop,KernelSHAP,A205,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A205,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A206,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A206,P1,1.0,20
+IForest,42,loop,KernelSHAP,A206,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A206,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A207,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A207,P1,1.0,20
+IForest,42,loop,KernelSHAP,A207,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A207,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A208,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A208,P1,0.0,20
+IForest,42,loop,KernelSHAP,A208,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A208,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A209,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A209,P1,1.0,20
+IForest,42,loop,KernelSHAP,A209,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A209,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A210,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A210,P1,0.0,20
+IForest,42,loop,KernelSHAP,A210,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A210,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A211,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A211,P1,1.0,20
+IForest,42,loop,KernelSHAP,A211,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A211,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A212,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A212,P1,0.0,20
+IForest,42,loop,KernelSHAP,A212,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A212,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A213,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A213,P1,1.0,20
+IForest,42,loop,KernelSHAP,A213,P1-CC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A213,P1-CC,1.0,20
+IForest,42,process,KernelSHAP,A214,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A214,P1,0.0,20
+IForest,42,loop,KernelSHAP,A214,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A214,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A215,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A215,P1,1.0,20
+IForest,42,loop,KernelSHAP,A215,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A215,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A216,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A216,P1,1.0,20
+IForest,42,loop,KernelSHAP,A216,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A216,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A217,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A217,P1,1.0,20
+IForest,42,loop,KernelSHAP,A217,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A217,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A301,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A301,P1,1.0,20
+IForest,42,loop,KernelSHAP,A301,P1-PC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A301,P1-PC,0.0,20
+IForest,42,process,KernelSHAP,A302,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A302,P1,1.0,20
+IForest,42,loop,KernelSHAP,A302,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A302,P1-PC,0.0,20
+IForest,42,process,KernelSHAP,A303,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A303,P1,1.0,20
+IForest,42,loop,KernelSHAP,A303,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A303,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A304,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A304,P1,0.0,20
+IForest,42,loop,KernelSHAP,A304,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A304,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A305,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A305,P1,1.0,20
+IForest,42,loop,KernelSHAP,A305,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A305,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A306,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A306,P1,1.0,20
+IForest,42,loop,KernelSHAP,A306,P1-PC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A306,P1-PC,1.0,20
+IForest,42,process,KernelSHAP,A307,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A307,P1,1.0,20
+IForest,42,loop,KernelSHAP,A307,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A307,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A308,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A308,P1,1.0,20
+IForest,42,loop,KernelSHAP,A308,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A308,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A309,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A309,P1,1.0,20
+IForest,42,loop,KernelSHAP,A309,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A309,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A310,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A310,P1,0.0,20
+IForest,42,loop,KernelSHAP,A310,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A310,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A401,P2,1.0,20
+IForest,42,process,GroupShapley (same seconds),A401,P2,1.0,20
+IForest,42,loop,KernelSHAP,A401,P2-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A401,P2-other,0.0,20
+IForest,42,process,KernelSHAP,A402,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A402,P1,1.0,20
+IForest,42,loop,KernelSHAP,A402,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A402,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A403,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A403,P1,0.0,20
+IForest,42,loop,KernelSHAP,A403,P2-SC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A403,P2-SC,0.0,20
+IForest,42,process,KernelSHAP,A404,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A404,P1,0.0,20
+IForest,42,loop,KernelSHAP,A404,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A404,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A405,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A405,P1,1.0,20
+IForest,42,loop,KernelSHAP,A405,P1-PC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A405,P1-PC,0.0,20
+IForest,42,process,KernelSHAP,A406,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A406,P1,1.0,20
+IForest,42,loop,KernelSHAP,A406,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A406,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A407,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A407,P1,1.0,20
+IForest,42,loop,KernelSHAP,A407,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A407,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A408,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A408,P1,1.0,20
+IForest,42,loop,KernelSHAP,A408,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A408,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A409,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A409,P1,1.0,20
+IForest,42,loop,KernelSHAP,A409,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A409,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A410,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A410,P1,1.0,20
+IForest,42,loop,KernelSHAP,A410,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A410,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A411,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A411,P1,1.0,20
+IForest,42,loop,KernelSHAP,A411,P2-SC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A411,P2-SC,0.0,20
+IForest,42,process,KernelSHAP,A412,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A412,P1,1.0,20
+IForest,42,loop,KernelSHAP,A412,P1-TC,1.0,20
+IForest,42,loop,GroupShapley (same seconds),A412,P1-TC,1.0,20
+IForest,42,process,KernelSHAP,A413,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A413,P1,1.0,20
+IForest,42,loop,KernelSHAP,A413,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A413,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A414,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A414,P1,0.0,20
+IForest,42,loop,KernelSHAP,A414,P2-SC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A414,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A415,P1,0.0,20
+IForest,42,process,GroupShapley (same seconds),A415,P1,0.0,20
+IForest,42,loop,KernelSHAP,A415,P2-SC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A415,P2-SC,0.0,20
+IForest,42,process,KernelSHAP,A416,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A416,P1,1.0,20
+IForest,42,loop,KernelSHAP,A416,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A416,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A417,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A417,P1,1.0,20
+IForest,42,loop,KernelSHAP,A417,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A417,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A418,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A418,P1,1.0,20
+IForest,42,loop,KernelSHAP,A418,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A418,P1-other,0.0,20
+IForest,42,process,KernelSHAP,A419,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A419,P1,1.0,20
+IForest,42,loop,KernelSHAP,A419,P1-TC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A419,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A420,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A420,P1,1.0,20
+IForest,42,loop,KernelSHAP,A420,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A420,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A421,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A421,P1,1.0,20
+IForest,42,loop,KernelSHAP,A421,P4-HIL,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A421,P4-HIL,0.0,20
+IForest,42,process,KernelSHAP,A422,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A422,P1,1.0,20
+IForest,42,loop,KernelSHAP,A422,P1-CC,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A422,P1-CC,0.0,20
+IForest,42,process,KernelSHAP,A423,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A423,P1,1.0,20
+IForest,42,loop,KernelSHAP,A423,P4-HIL,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A423,P1-TC,0.0,20
+IForest,42,process,KernelSHAP,A424,P1,1.0,20
+IForest,42,process,GroupShapley (same seconds),A424,P1,1.0,20
+IForest,42,loop,KernelSHAP,A424,P1-other,0.0,20
+IForest,42,loop,GroupShapley (same seconds),A424,P1-other,0.0,20

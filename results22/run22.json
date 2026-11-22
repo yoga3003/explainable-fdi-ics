@@ -1,0 +1,24 @@
+{
+  "runtime_s": 685.0750911235809,
+  "stride": 3,
+  "seeds": [
+    42,
+    123,
+    2026,
+    7,
+    99
+  ],
+  "loops": [
+    "P1-PC",
+    "P1-LC",
+    "P1-FC",
+    "P1-TC",
+    "P1-CC",
+    "P1-other",
+    "P2-SC",
+    "P2-TR",
+    "P2-other",
+    "P3-LC",
+    "P4-HIL"
+  ]
+}

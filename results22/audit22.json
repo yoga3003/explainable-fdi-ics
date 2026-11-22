@@ -1,0 +1,40 @@
+{
+  "features_used": 68,
+  "dropped_constant": 18,
+  "train_rows": 1004402,
+  "fit_rows": 952562,
+  "cal_rows": 51840,
+  "test_rows": 361200,
+  "attack_rows": 12030,
+  "events": 58,
+  "ambiguous": 2,
+  "single_loop_events": 34,
+  "single_process_events": 45,
+  "loop_groups": {
+    "P1-PC": 7,
+    "P1-LC": 4,
+    "P1-FC": 5,
+    "P1-TC": 9,
+    "P1-CC": 3,
+    "P1-other": 6,
+    "P2-SC": 7,
+    "P2-TR": 5,
+    "P2-other": 4,
+    "P3-LC": 7,
+    "P4-HIL": 11
+  },
+  "process_groups": {
+    "P1": 34,
+    "P2": 16,
+    "P3": 7,
+    "P4": 11
+  },
+  "majority_loop": "P1-FC",
+  "majority_loop_rate": 0.17647058823529413,
+  "majority_process": "P1",
+  "majority_process_rate": 0.7333333333333333,
+  "target_points_missing": [
+    "P2_RTR",
+    "P2_VTR02"
+  ]
+}

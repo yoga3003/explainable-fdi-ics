@@ -1,0 +1,6 @@
+{
+  "runtime_s": 3075.9670927524567,
+  "kernel_shap_seconds_per_event": 20,
+  "kernel_shap_coalitions": 1024,
+  "usad_window_s": 10
+}

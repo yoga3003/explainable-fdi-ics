@@ -1,0 +1,21 @@
+detector,method,mean,std,level
+IForest,GroupShapley (same seconds),0.75,,process
+IForest,KernelSHAP,0.75,,process
+MLP-AE,GroupShapley (same seconds),0.8,0.040655781409087106,process
+MLP-AE,KernelSHAP,0.7954545454545455,0.055670221426890425,process
+PCA,GroupShapley (same seconds),0.8409090909090909,,process
+PCA,KernelSHAP,0.8409090909090909,,process
+USAD,GroupShapley (same seconds),0.4136363636363637,0.3489210050550053,process
+USAD,KernelSHAP,0.40909090909090906,0.3535533905932738,process
+Z-max,GroupShapley (same seconds),0.7727272727272727,,process
+Z-max,KernelSHAP,0.7954545454545454,,process
+IForest,GroupShapley (same seconds),0.11764705882352941,,loop
+IForest,KernelSHAP,0.11764705882352941,,loop
+MLP-AE,GroupShapley (same seconds),0.31176470588235294,0.07083290928701348,loop
+MLP-AE,KernelSHAP,0.32941176470588235,0.04832846095633817,loop
+PCA,GroupShapley (same seconds),0.4117647058823529,,loop
+PCA,KernelSHAP,0.4117647058823529,,loop
+USAD,GroupShapley (same seconds),0.2,0.013153341044116399,loop
+USAD,KernelSHAP,0.2,0.013153341044116399,loop
+Z-max,GroupShapley (same seconds),0.29411764705882354,,loop
+Z-max,KernelSHAP,0.3235294117647059,,loop

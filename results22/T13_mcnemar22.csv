@@ -1,0 +1,34 @@
+level,detector,comparison,events,gs_only,other_only,p
+process,PCA,GroupShapley vs Residual,44,19,4,0.002599477767944336
+process,PCA,GroupShapley vs Z-mean,44,9,0,0.00390625
+process,MLP-AE,GroupShapley vs Residual,44,4,2,0.6875
+process,MLP-AE,GroupShapley vs Z-mean,44,8,0,0.0078125
+process,IForest,GroupShapley vs Z-mean,44,7,2,0.1796875
+process,Z-max,GroupShapley vs Residual,44,27,6,0.0003240634687244892
+process,Z-max,GroupShapley vs Z-mean,44,6,0,0.03125
+process,USAD,GroupShapley vs Residual,44,1,29,5.774199962615967e-08
+process,USAD,GroupShapley vs Z-mean,44,1,22,5.7220458984375e-06
+loop,PCA,GroupShapley vs Residual,34,9,6,0.6072387695312499
+loop,PCA,GroupShapley vs Z-mean,34,8,4,0.3876953125
+loop,PCA,GroupShapley vs Occlusion,34,2,2,1.0
+loop,MLP-AE,GroupShapley vs Residual,34,4,6,0.75390625
+loop,MLP-AE,GroupShapley vs Z-mean,34,4,3,1.0
+loop,MLP-AE,GroupShapley vs Occlusion,34,1,4,0.375
+loop,IForest,GroupShapley vs Z-mean,34,0,6,0.03125
+loop,IForest,GroupShapley vs Occlusion,34,2,4,0.6875
+loop,Z-max,GroupShapley vs Residual,34,9,6,0.6072387695312499
+loop,Z-max,GroupShapley vs Z-mean,34,2,2,1.0
+loop,Z-max,GroupShapley vs Occlusion,34,0,1,1.0
+loop,USAD,GroupShapley vs Residual,34,4,5,1.0
+loop,USAD,GroupShapley vs Z-mean,34,1,7,0.0703125
+loop,USAD,GroupShapley vs Occlusion,34,1,0,1.0
+process,PCA,GroupShapley vs KernelSHAP (same seconds),44,0,0,1.0
+process,MLP-AE,GroupShapley vs KernelSHAP (same seconds),44,0,1,1.0
+process,IForest,GroupShapley vs KernelSHAP (same seconds),44,0,0,1.0
+process,Z-max,GroupShapley vs KernelSHAP (same seconds),44,0,1,1.0
+process,USAD,GroupShapley vs KernelSHAP (same seconds),44,0,0,1.0
+loop,PCA,GroupShapley vs KernelSHAP (same seconds),34,0,0,1.0
+loop,MLP-AE,GroupShapley vs KernelSHAP (same seconds),34,1,3,0.625
+loop,IForest,GroupShapley vs KernelSHAP (same seconds),34,0,0,1.0
+loop,Z-max,GroupShapley vs KernelSHAP (same seconds),34,0,1,1.0
+loop,USAD,GroupShapley vs KernelSHAP (same seconds),34,0,0,1.0
